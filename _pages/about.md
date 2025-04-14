@@ -48,11 +48,19 @@ I'm current working on AI for Chips. I have published 10+ papers with <a href='h
 - **[IEEE TMM, 2022]** [Spatial-channel enhanced transformer for visible-infrared person re-identification](https://ieeexplore.ieee.org/abstract/document/9745797/), Jiaqi Zhao; Hanzheng Wang; Yong Zhou; Rui Yao; **Silin Chen**; Abdulmotaleb El Saddik. (CCF-B, Journal, *IF 8.4*)
 - **[Neurocomputing, 2021]** [AMC-Net: Attentive modality-consistent network for visible-infrared person re-identification](https://www.sciencedirect.com/science/article/pii/S0925231221012376), Hanzheng Wang; Jiaqi Zhao; Yong Zhou; Rui Yao; Ying Chen; **Silin Chen**. (CCF-C, Journal, *IF 5.5*)
 - **[模式识别与人工智能, 2021]** [基于深度强化学习的遥感图像可解释目标检测方法](https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliWhXUiDYKrqnAIPgVc_lC1Ew6X9U5rDBYkKYAzixt42EIp65ugcuaIowLZSH_2gP6c5nPlLbdyN0Ml5JvSOTKg7F8602y-sAh1vpJ8fG_j0rDVI1TL9XD8XNNtUaciQFnhCi5tl63-L4LI84aYeo8C8ukKG3bWxsAJfhPVa3Mu23g==&uniplatform=NZKPT&language=CHS), 赵佳琦; 张迪; 周勇; **陈思霖**; 唐嘉澜; 姚睿. (CCF-B 中文期刊)
-- **[电子学报, 2021]**[基于弱语义注意力的遥感图像可解释目标检测](https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliWJXRBpzMn5rJLaErJ_3a4jRYTL_LTQ5yIB-lw4E6oiOSC83CSnVxd-0_jO1LnpuAVLLMhVMSs2C2CCL1trIxtsV6N8xRnSrMajMzuOW2WG1oorJkzeqpB7uisWhBOJEYXxQplAxArUODG4x3DiFRpNENiuPcre8mHUABV9WyoPJw==&uniplatform=NZKPT&language=CHS), 周勇; **陈思霖**; 赵佳琦; 张迪; 王瀚正. (CCF-A 中文期刊)
-- **[自动化学报, 2023]**[基于可解释注意力部件模型的行人重识别方法](https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliX0_Qlr2udCG_FEbYikpAPgAyKNhRBy21RPse0P_qg3kFflzU6Nzywf3zL63xZbV6jw-58XwxUwksmxiXM4SXtonDchnDVDunCJVWq6wRiPCt-e1Dq64SOKMEujSlqf-AJV-kSwx6ZqUBVfAsNK8PXnMZ92CeIPn1FFcaDrnUlEQg==&uniplatform=NZKPT&language=CHS), 周勇; 王瀚正; 赵佳琦; 陈莹; 姚睿; **陈思霖**. (CCF-A 中文期刊)
+- **[电子学报, 2021]** [基于弱语义注意力的遥感图像可解释目标检测](https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliWJXRBpzMn5rJLaErJ_3a4jRYTL_LTQ5yIB-lw4E6oiOSC83CSnVxd-0_jO1LnpuAVLLMhVMSs2C2CCL1trIxtsV6N8xRnSrMajMzuOW2WG1oorJkzeqpB7uisWhBOJEYXxQplAxArUODG4x3DiFRpNENiuPcre8mHUABV9WyoPJw==&uniplatform=NZKPT&language=CHS), 周勇; **陈思霖**; 赵佳琦; 张迪; 王瀚正. (CCF-A 中文期刊)
+- **[自动化学报, 2023]** [基于可解释注意力部件模型的行人重识别方法](https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliX0_Qlr2udCG_FEbYikpAPgAyKNhRBy21RPse0P_qg3kFflzU6Nzywf3zL63xZbV6jw-58XwxUwksmxiXM4SXtonDchnDVDunCJVWq6wRiPCt-e1Dq64SOKMEujSlqf-AJV-kSwx6ZqUBVfAsNK8PXnMZ92CeIPn1FFcaDrnUlEQg==&uniplatform=NZKPT&language=CHS), 周勇; 王瀚正; 赵佳琦; 陈莹; 姚睿; **陈思霖**. (CCF-A 中文期刊)
 
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🙏 Preprints
+- [FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection](https://arxiv.org/pdf/2502.21012), **Silin Chen**, Kangjian Di, Yichu Xu, Han-Jia Ye, Wenhan Luo, Ningmu Zou.
+- [Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development](https://arxiv.org/pdf/2409.06367), Tianwu Lei, Bohan Wang, **Silin Chen**, Shurong Cao, Ningmu Zou.
+- [Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection](https://arxiv.org/pdf/2409.05611), Tianwu Lei#, **Silin Chen#**, Bohan Wang, Zhengkai Jiang, Ningmu Zou。
+
+
+# 📧 Contact
+
+- silin.chen@smail.nju.edu.cn
+- silin.chen@cumt.edu.cn
+- silinc_nju@outlook.com
