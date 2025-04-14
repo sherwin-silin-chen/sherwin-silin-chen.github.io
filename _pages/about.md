@@ -26,7 +26,7 @@ I'm current working on AI for Chips. I have published 10+ papers with <a href='h
 
 # 📖 Educations and Work Experience
 - *2024.09-Now*, (Ph.D.) School of Integrated Circuits, Nanjing University, Suzhou, Jiangsu, China. Supervisior: [Ningmu Zou](https://zouningmu.github.io)
-- *2023.07 - 2024.07*, (Engineer)Intelligent Computing Center, Xpeng Inc., ShangHai, China. 
+- *2023.07 - 2024.07*, (Engineer) Intelligent Computing Center, Xpeng Inc., ShangHai, China. 
 - *2022.06 - 2023.01*, (Research Intern) Big Data Lab, Baidu Research, Beijing, China. Mentor: [Qingzhong Wang](https://qingzwang.github.io).
 - *2020.09 - 2023.06*, (M.S.) School of Computer Science and Technology, China University of Mining and Technology, Xuzhou, Jiangsu, China. Supervisor: [Yong Zhou](https://cs.cumt.edu.cn/info/1016/1065.htm), [Jiaqi Zhao](https://www.scholat.com/zhaojiaqi).
 - *2016.09 - 2020.06*, (B.E.) School of Computer Science and Technology, China University of Mining and Technology, Xuzhou, Jiangsu, China.
@@ -39,7 +39,7 @@ I'm current working on AI for Chips. I have published 10+ papers with <a href='h
 
 # 📝 Publications 
 
-- **[IEEE/ACM DAC, 2025]** [Delving into Topology Representation for Layout Pattern:  A Novel Contrastive Learning Framework for Hotspot Detection](https://arxiv.org/abs/2401.09769), **Silin Chen**; Kangjian Di; Guohao Wang; Wenzheng Zhao; Li Du; Ningmu Zou. (CCF-A, Conference)
+- **[IEEE/ACM DAC, 2025]** [Delving into Topology Representation for Layout Pattern:  A Novel Contrastive Learning Framework for Hotspot Detection](https://www.dac.com), **Silin Chen**; Kangjian Di; Guohao Wang; Wenzheng Zhao; Li Du; Ningmu Zou. (CCF-A, Conference)
 - **[IEEE SPL, 2025]** [Look Twice and Closer: A Coarse-to-Fine Segmentation Network for Small Objects in Remote Sensing Images](https://ieeexplore.ieee.org/document/10878803), **Silin Chen\#**; Qingzhong Wang\#; Kangjian Di; Haoyi Xiong; Ningmu Zou. (CCF-C, Journal, *IF 3.2*)
 - **[Advanced Photonics, 2025]** [Time-wavelength multiplexed photonic neural network accelerator for distributed acoustic sensing systems](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-7/issue-02/026008/Time-wavelength-multiplexed-photonic-neural-network-accelerator-for-distributed-acoustic/10.1117/1.AP.7.2.026008.pdf), Fuhao Yu; Kangjian Di; Wenjun Chen; Sen Yan; Yuanyuan Yao; **Silin Chen**; Xuping Zhang; Yixin Zhang; Ningmu Zou; Wei Jiang. (CAS 1st, Top, Journal, *IF 20.6*)
 - **[ESWA, 2023]** [Info-FPN: An informative feature pyramid network for object detection in remote sensing images](https://www.sciencedirect.com/science/article/pii/S0957417422021509), **Silin Chen**; Jiaqi Zhao; Yong Zhou; Hanzheng Wang; Rui Yao; Lixu Zhang; Yong Xue. (CCF-C, Journal, *IF 7.5*)
