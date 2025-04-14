@@ -26,8 +26,8 @@ I'm current working on AI for Chips. I have published 10+ papers with <a href='h
 
 # 📖 Educations and Work Experience
 - *2024.09-Now*, (Ph.D.) School of Integrated Circuits, Nanjing University, Suzhou, Jiangsu, China. Supervisior: [Ningmu Zou](https://zouningmu.github.io)
-- *2023.07 - 2024.07*, Intelligent Computing Center, Xpeng Inc., ShangHai, China. 
-- *2022.06 - 2023.01*, Big Data Lab, Baidu Research, Beijing, China. Mentor: [Qingzhong Wang](https://qingzwang.github.io).
+- *2023.07 - 2024.07*, (Engineer)Intelligent Computing Center, Xpeng Inc., ShangHai, China. 
+- *2022.06 - 2023.01*, (Research Intern) Big Data Lab, Baidu Research, Beijing, China. Mentor: [Qingzhong Wang](https://qingzwang.github.io).
 - *2020.09 - 2023.06*, (M.S.) School of Computer Science and Technology, China University of Mining and Technology, Xuzhou, Jiangsu, China. Supervisor: [Yong Zhou](https://cs.cumt.edu.cn/info/1016/1065.htm), [Jiaqi Zhao](https://www.scholat.com/zhaojiaqi).
 - *2016.09 - 2020.06*, (B.E.) School of Computer Science and Technology, China University of Mining and Technology, Xuzhou, Jiangsu, China.
 
