@@ -67,4 +67,4 @@ I'm current working on AI for Chips. I have published 10+ papers with <a href='h
 
 ***
 
-<font color=gray size=3 face="KAI">*问到何时葡萄先熟透 我要静候 再静候 就算失收 始终要守*</font>
+<font color=gray size=3 face="KAI">问到何时葡萄先熟透 我要静候 再静候 就算失收 始终要守</font>
