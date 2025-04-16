@@ -22,7 +22,7 @@ My research interests is include:
 * AI for Remote Sensing (Small Object Detection/Segmentation in Remote Sening Image)
 * Deep Learning for Computer Vision. 
 
-I'm current working on AI for Chips. I have published 10+ papers with <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I'm current working on AI for Chips. I have published 10+ papers with <a href='https://scholar.google.com/citations?user=Yc3F9KMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📖 Educations and Work Experience
 - *2024.09-Now*, (Ph.D.) School of Integrated Circuits, Nanjing University, Suzhou, Jiangsu, China. Supervisior: [Ningmu Zou](https://zouningmu.github.io)
@@ -41,7 +41,7 @@ I'm current working on AI for Chips. I have published 10+ papers with <a href='h
 
 - **[IEEE/ACM DAC, 2025]** [Delving into Topology Representation for Layout Pattern:  A Novel Contrastive Learning Framework for Hotspot Detection](https://www.dac.com), **Silin Chen**; Kangjian Di; Guohao Wang; Wenzheng Zhao; Li Du; Ningmu Zou. (CCF-A, Conference)
 - **[IEEE SPL, 2025]** [Look Twice and Closer: A Coarse-to-Fine Segmentation Network for Small Objects in Remote Sensing Images](https://ieeexplore.ieee.org/document/10878803), **Silin Chen\#**; Qingzhong Wang\#; Kangjian Di; Haoyi Xiong; Ningmu Zou. (CCF-C, Journal, *IF 3.2*)
-- **[Advanced Photonics, 2025]** [Time-wavelength multiplexed photonic neural network accelerator for distributed acoustic sensing systems](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-7/issue-02/026008/Time-wavelength-multiplexed-photonic-neural-network-accelerator-for-distributed-acoustic/10.1117/1.AP.7.2.026008.pdf), Fuhao Yu; Kangjian Di; Wenjun Chen; Sen Yan; Yuanyuan Yao; **Silin Chen**; Xuping Zhang; Yixin Zhang; Ningmu Zou; Wei Jiang. (CAS 1st, Top, Journal, *IF 20.6*)
+- **[Advanced Photonics, 2025]** [Time-wavelength multiplexed photonic neural network accelerator for distributed acoustic sensing systems](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-7/issue-02/026008/Time-wavelength-multiplexed-photonic-neural-network-accelerator-for-distributed-acoustic/10.1117/1.AP.7.2.026008.pdf), Fuhao Yu; Kangjian Di; Wenjun Chen; Sen Yan; Yuanyuan Yao; **Silin Chen**; Xuping Zhang; Yixin Zhang; Ningmu Zou; Wei Jiang. (CAS 1st, Top, Journal, ***IF 20.6***)
 - **[ESWA, 2023]** [Info-FPN: An informative feature pyramid network for object detection in remote sensing images](https://www.sciencedirect.com/science/article/pii/S0957417422021509), **Silin Chen**; Jiaqi Zhao; Yong Zhou; Hanzheng Wang; Rui Yao; Lixu Zhang; Yong Xue. (CCF-C, Journal, *IF 7.5*)
 - **[IEEE TGRS, 2022]** [CLT-Det: Correlation learning based on transformer for detecting dense objects in remote sensing images](https://ieeexplore.ieee.org/abstract/document/9878347/), Yong Zhou; **Silin Chen**; Jiaqi Zhao; Rui Yao; Yong Xue; Abdulmotaleb El Saddik. (CCF-B, Journal, *IF 7.5*)
 - **[IEEE TCSVT, 2022]** [Spatial-temporal based multihead self-attention for remote sensing image change detection](https://ieeexplore.ieee.org/abstract/document/9777690/), Yong Zhou; Fengkai Wang; Jiaqi Zhao; Rui Yao; **Silin Chen**; Heping Ma. (CCF-B, Journal, *IF 8.3*)
@@ -64,3 +64,7 @@ I'm current working on AI for Chips. I have published 10+ papers with <a href='h
 - silin.chen@smail.nju.edu.cn
 - silin.chen@cumt.edu.cn
 - silinc_nju@outlook.com
+
+***
+
+<font color=gray size=3 face="KAI">*问到何时葡萄先熟透 我要静候 再静候 就算失收 始终要守*</font>
