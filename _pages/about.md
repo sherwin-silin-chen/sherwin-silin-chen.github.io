@@ -18,7 +18,7 @@ redirect_from:
 Hi~, I'm a first-year Ph.D. student at the School of Integrated Circuits in the Nanjing University (NJU), supervised by the Associate Prof [Ningmu Zou](https://zouningmu.github.io). Previously I received my B.S. degree in 2020 and my M.S. degree in 2023, at the School of Computer Science and Technology, China University of Mining and Technology (CUMT).
 
 My research interests is include:
-* AI for Chips (Layout Hotspot Detection, Mask Optimization， Wafer Defect Detection)
+* AI for Chips (Layout Hotspot Detection, Mask Optimization, Wafer Defect Detection)
 * AI for Remote Sensing (Small Object Detection/Segmentation in Remote Sening Image)
 * Deep Learning for Computer Vision. 
 
@@ -39,6 +39,10 @@ My research interests is include:
 
 # 📝 Publications 
 
+- **[ACM GLSVLSI, 2025]** [When Transformer Meets Layout Hotspot: An End-to-End Transformer-based Detector with Prior Lithography](https://doi.org/10.1145/3716368.3735160), Wenbo Xu\#, **Silin Chen\#**; Jiale Li, Kangjian Di; Yuxiang Fu; Ningmu Zou. (CCF-C, Conference)
+
+- **[ICIC, 2025]** [Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection](https://arxiv.org/pdf/2409.05611), Tianwu Lei#, **Silin Chen#**, Bohan Wang, Zhengkai Jiang, Ningmu Zou. (CCF-C, Conference)
+
 - **[IEEE/ACM DAC, 2025]** [Delving into Topology Representation for Layout Pattern:  A Novel Contrastive Learning Framework for Hotspot Detection](https://www.dac.com), **Silin Chen**; Kangjian Di; Guohao Wang; Wenzheng Zhao; Li Du; Ningmu Zou. (CCF-A, Conference)
 - **[IEEE SPL, 2025]** [Look Twice and Closer: A Coarse-to-Fine Segmentation Network for Small Objects in Remote Sensing Images](https://ieeexplore.ieee.org/document/10878803), **Silin Chen\#**; Qingzhong Wang\#; Kangjian Di; Haoyi Xiong; Ningmu Zou. (CCF-C, Journal, *IF 3.2*)
 - **[Advanced Photonics, 2025]** [Time-wavelength multiplexed photonic neural network accelerator for distributed acoustic sensing systems](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-7/issue-02/026008/Time-wavelength-multiplexed-photonic-neural-network-accelerator-for-distributed-acoustic/10.1117/1.AP.7.2.026008.pdf), Fuhao Yu; Kangjian Di; Wenjun Chen; Sen Yan; Yuanyuan Yao; **Silin Chen**; Xuping Zhang; Yixin Zhang; Ningmu Zou; Wei Jiang. (CAS 1st, Top, Journal, ***IF 20.6***)
@@ -56,7 +60,6 @@ My research interests is include:
 # 🙏 Preprints
 - [FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection](https://arxiv.org/pdf/2502.21012), **Silin Chen**, Kangjian Di, Yichu Xu, Han-Jia Ye, Wenhan Luo, Ningmu Zou.
 - [Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development](https://arxiv.org/pdf/2409.06367), Tianwu Lei, Bohan Wang, **Silin Chen**, Shurong Cao, Ningmu Zou.
-- [Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection](https://arxiv.org/pdf/2409.05611), Tianwu Lei#, **Silin Chen#**, Bohan Wang, Zhengkai Jiang, Ningmu Zou。
 
 
 # 📧 Contact
