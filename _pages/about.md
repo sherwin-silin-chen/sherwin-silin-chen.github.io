@@ -66,7 +66,8 @@ My research interests is include:
 
 - silin.chen[at]smail[dot]nju[dot]edu[dot]cn
 - silin.chen[at]cumt[dot]edu[dot]cn
-- silinc_nju[at]outlook[dot]com
+- silin.sherwin.chen[at]outlook[dot]com
+- silin.sherwin.chen[at]gmail[dot]com
 
 ***
 
