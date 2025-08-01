@@ -41,7 +41,7 @@ My research interests is include:
 
 - **[GLSVLSI, 2025]** [When Transformer Meets Layout Hotspot: An End-to-End Transformer-based Detector with Prior Lithography](https://doi.org/10.1145/3716368.3735160), Wenbo Xu\#, **Silin Chen\#**; Jiale Li, Kangjian Di; Yuxiang Fu; Ningmu Zou. (CCF-C, Conference)
 
-- **[ICIC Oral, 2025]** [Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection](https://arxiv.org/pdf/2409.05611), Tianwu Lei#, **Silin Chen#**, Bohan Wang, Zhengkai Jiang, Ningmu Zou. (CCF-C, Conference)
+- **[ICIC Oral, 2025]** [Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection](https://link.springer.com/chapter/10.1007/978-981-96-9891-2_36), Tianwu Lei#, **Silin Chen#**, Bohan Wang, Zhengkai Jiang, Ningmu Zou. (CCF-C, Conference)
 
 - **[IEEE/ACM DAC, 2025]** [Delving into Topology Representation for Layout Pattern:  A Novel Contrastive Learning Framework for Hotspot Detection](https://www.dac.com), **Silin Chen**; Kangjian Di; Guohao Wang; Wenzheng Zhao; Li Du; Ningmu Zou. (CCF-A, Conference)
 - **[IEEE SPL, 2025]** [Look Twice and Closer: A Coarse-to-Fine Segmentation Network for Small Objects in Remote Sensing Images](https://ieeexplore.ieee.org/document/10878803), **Silin Chen\#**; Qingzhong Wang\#; Kangjian Di; Haoyi Xiong; Ningmu Zou. (CCF-C, Journal, *IF 3.2*)
