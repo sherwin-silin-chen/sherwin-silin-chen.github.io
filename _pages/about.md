@@ -22,7 +22,7 @@ My research interests is include:
 * AI for Remote Sensing (Small Object Detection/Segmentation in Remote Sening Image)
 * Deep Learning for Computer Vision. 
 
-**I'm current working on AI for Chips.** I have published 10+ papers with <a href='https://scholar.google.com/citations?user=Yc3F9KMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+**I'm current working on AI for Chips.** I have published 10+ papers with <a href='https://scholar.google.com/citations?user=2MvuH1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📖 Educations and Work Experience
 - *2024.09 - Now*, (Ph.D.) School of Integrated Circuits, Nanjing University, Suzhou, Jiangsu, China. Supervisior: [Ningmu Zou](https://zouningmu.github.io)
@@ -65,6 +65,7 @@ My research interests is include:
 # 📧 Contact
 
 - silin.chen[at]smail[dot]nju[dot]edu[dot]cn
+- silin.chen[at]cumt[dot]edu[dot]cn
 - silin.sherwin.chen[at]outlook[dot]com
 - silin.sherwin.chen[at]gmail[dot]com
 
