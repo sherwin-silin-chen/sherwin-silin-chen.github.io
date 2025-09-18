@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Silin Chen(Sherwin)"
-description              : "Second Year Ph.D. Student in Nanjing University"
+description              : "Second Year Ph.D. Student in School of Integrated Circuits, NJU"
 repository               : "sherwin-silin-chen/sherwin-silin-chen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Silin Chen"
   avatar           : "images/sherwin.png"
   bio              : "Nanjing University"
-  location         : "Nanjing, Jiangsu, China"
+  location         : "Suzhou, Jiangsu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=2MvuH1QAAAAJ"
