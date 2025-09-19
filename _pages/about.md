@@ -53,7 +53,7 @@ My research interests is include:
 - **[Neurocomputing, 2021]** [AMC-Net: Attentive modality-consistent network for visible-infrared person re-identification](https://www.sciencedirect.com/science/article/pii/S0925231221012376), Hanzheng Wang; Jiaqi Zhao; Yong Zhou; Rui Yao; Ying Chen; **Silin Chen**. (CCF-C, Journal, *IF 5.5*)
 - **[模式识别与人工智能, 2021]** [基于深度强化学习的遥感图像可解释目标检测方法](https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliWhXUiDYKrqnAIPgVc_lC1Ew6X9U5rDBYkKYAzixt42EIp65ugcuaIowLZSH_2gP6c5nPlLbdyN0Ml5JvSOTKg7F8602y-sAh1vpJ8fG_j0rDVI1TL9XD8XNNtUaciQFnhCi5tl63-L4LI84aYeo8C8ukKG3bWxsAJfhPVa3Mu23g==&uniplatform=NZKPT&language=CHS), 赵佳琦; 张迪; 周勇; **陈思霖**; 唐嘉澜; 姚睿. (CCF-T2)
 - **[电子学报, 2021]** [基于弱语义注意力的遥感图像可解释目标检测](https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliWJXRBpzMn5rJLaErJ_3a4jRYTL_LTQ5yIB-lw4E6oiOSC83CSnVxd-0_jO1LnpuAVLLMhVMSs2C2CCL1trIxtsV6N8xRnSrMajMzuOW2WG1oorJkzeqpB7uisWhBOJEYXxQplAxArUODG4x3DiFRpNENiuPcre8mHUABV9WyoPJw==&uniplatform=NZKPT&language=CHS), 周勇; **陈思霖**; 赵佳琦; 张迪; 王瀚正. (CCF-T1)
-- **[自动化学报, 2023]** [基于可解释注意力部件模型的行人重识别方法](https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliX0_Qlr2udCG_FEbYikpAPgAyKNhRBy21RPse0P_qg3kFflzU6Nzywf3zL63xZbV6jw-58XwxUwksmxiXM4SXtonDchnDVDunCJVWq6wRiPCt-e1Dq64SOKMEujSlqf-AJV-kSwx6ZqUBVfAsNK8PXnMZ92CeIPn1FFcaDrnUlEQg==&uniplatform=NZKPT&language=CHS), 周勇; 王瀚正; 赵佳琦; 陈莹; 姚睿; **陈思霖**. (CCF-T1)
+- **[自动化学报, 2020]** [基于可解释注意力部件模型的行人重识别方法](https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliX0_Qlr2udCG_FEbYikpAPgAyKNhRBy21RPse0P_qg3kFflzU6Nzywf3zL63xZbV6jw-58XwxUwksmxiXM4SXtonDchnDVDunCJVWq6wRiPCt-e1Dq64SOKMEujSlqf-AJV-kSwx6ZqUBVfAsNK8PXnMZ92CeIPn1FFcaDrnUlEQg==&uniplatform=NZKPT&language=CHS), 周勇; 王瀚正; 赵佳琦; 陈莹; 姚睿; **陈思霖**. (CCF-T1)
 
 
 
