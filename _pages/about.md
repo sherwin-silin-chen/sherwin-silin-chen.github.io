@@ -39,7 +39,11 @@ My research interests is include:
 
 # 📝 Publications 
 
-- **[GLSVLSI, 2025]** [When Transformer Meets Layout Hotspot: An End-to-End Transformer-based Detector with Prior Lithography](https://dl.acm.org/doi/10.1145/3716368.3735160), Wenbo Xu\#, **Silin Chen\#**; Jiale Li, Kangjian Di; Yuxiang Fu; Ningmu Zou. (CCF-C, Conference)
+- **[IEEE JEDS]** Improved Algorithm of Dueling DQN for BSIM Parameter Extraction Task, Wenjun Chen, Yali Zhang, Zikang Zeng, **Silin Chen**, Kangjian Di, Guohao Wang, Chia-Yen Li, Ningmu Zou.
+
+- **[IWAPS 2025]** SVD-based Layout Representation for Lithographic Hotspot Detection, Yibo Huang\#, **Silin Chen\#**, Hao Shu, Jiahao Wang, Wenbo Xu, Ningmu Zou.
+
+- **[GLSVLSI, 2025]** [When Transformer Meets Layout Hotspot: An End-to-End Transformer-based Detector with Prior Lithography](https://dl.acm.org/doi/10.1145/3716368.3735160), Wenbo Xu\#, **Silin Chen\#**, Jiale Li, Kangjian Di; Yuxiang Fu; Ningmu Zou. (CCF-C, Conference)
 
 - **[ICIC Oral, 2025]** [Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection](https://link.springer.com/chapter/10.1007/978-981-96-9891-2_36), Tianwu Lei#, **Silin Chen#**, Bohan Wang, Zhengkai Jiang, Ningmu Zou. (CCF-C, Conference)
 
