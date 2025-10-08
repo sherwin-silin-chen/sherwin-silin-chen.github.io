@@ -39,14 +39,11 @@ My research interests is include:
 
 # 📝 Publications 
 
-- **[IEEE JEDS]** Improved Algorithm of Dueling DQN for BSIM Parameter Extraction Task, Wenjun Chen, Yali Zhang, Zikang Zeng, **Silin Chen**, Kangjian Di, Guohao Wang, Chia-Yen Li, Ningmu Zou.
-
-- **[IWAPS 2025]** SVD-based Layout Representation for Lithographic Hotspot Detection, Yibo Huang\#, **Silin Chen\#**, Hao Shu, Jiahao Wang, Wenbo Xu, Ningmu Zou.
-
-- **[GLSVLSI, 2025]** [When Transformer Meets Layout Hotspot: An End-to-End Transformer-based Detector with Prior Lithography](https://dl.acm.org/doi/10.1145/3716368.3735160), Wenbo Xu\#, **Silin Chen\#**, Jiale Li, Kangjian Di; Yuxiang Fu; Ningmu Zou. (CCF-C, Conference)
-
-- **[ICIC Oral, 2025]** [Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection](https://link.springer.com/chapter/10.1007/978-981-96-9891-2_36), Tianwu Lei#, **Silin Chen#**, Bohan Wang, Zhengkai Jiang, Ningmu Zou. (CCF-C, Conference)
-
+- **[ASP DAC, 2026]** [Understand and Detect: Lithographic Hotspot Detection by the Interpretable Graph Attention Network](https://zouningmu.github.io/images/people/Understand%20and%20Detect%20Lithographic%20Hotspot%20Detection%20by%20the%20Interpretable%20Graph%20Attention%20Network.pdf), Andy Liu\#; **Silin Chen\#**; Guohao Wang; Wenzheng Zhao, Yuxiang Fu, Ningmu Zou. (CCF-C, Conference)
+- **[IEEE JEDS]** [Improved Algorithm of Dueling DQN for BSIM Parameter Extraction Task](https://zouningmu.github.io/images/people/Improved%20Algorithm%20of%20Dueling%20DQN__%20for%20BSIM%20Parameter%20Extraction%20Task(JEDS).pdf), Wenjun Chen; Yali Zhang; Zikang Zeng; **Silin Chen**; Kangjian Di; Guohao Wang; Chia-Yen Li; Ningmu Zou.
+- **[IWAPS, 2025]** SVD-based Layout Representation for Lithographic Hotspot Detection, Yibo Huang\#; **Silin Chen\#**; Hao Shu; Jiahao Wang; Wenbo Xu; Ningmu Zou.
+- **[GLSVLSI, 2025]** [When Transformer Meets Layout Hotspot: An End-to-End Transformer-based Detector with Prior Lithography](https://dl.acm.org/doi/10.1145/3716368.3735160), Wenbo Xu\#; **Silin Chen\#**; Jiale Li; Kangjian Di; Yuxiang Fu; Ningmu Zou. (CCF-C, Conference)
+- **[ICIC Oral, 2025]** [Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection](https://link.springer.com/chapter/10.1007/978-981-96-9891-2_36), Tianwu Lei#; **Silin Chen#**; Bohan Wang; Zhengkai Jiang; Ningmu Zou. (CCF-C, Conference)
 - **[IEEE/ACM DAC, 2025]** [Delving into Topology Representation for Layout Pattern:  A Novel Contrastive Learning Framework for Hotspot Detection](https://ieeexplore.ieee.org/document/11133380), **Silin Chen**; Kangjian Di; Guohao Wang; Wenzheng Zhao; Li Du; Ningmu Zou. (CCF-A, Conference)
 - **[IEEE SPL, 2025]** [Look Twice and Closer: A Coarse-to-Fine Segmentation Network for Small Objects in Remote Sensing Images](https://ieeexplore.ieee.org/document/10878803), **Silin Chen\#**; Qingzhong Wang\#; Kangjian Di; Haoyi Xiong; Ningmu Zou. (CCF-C, Journal, *IF 3.2*)
 - **[Advanced Photonics, 2025]** [Time-wavelength multiplexed photonic neural network accelerator for distributed acoustic sensing systems](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-7/issue-02/026008/Time-wavelength-multiplexed-photonic-neural-network-accelerator-for-distributed-acoustic/10.1117/1.AP.7.2.026008.pdf), Fuhao Yu; Kangjian Di; Wenjun Chen; Sen Yan; Yuanyuan Yao; **Silin Chen**; Xuping Zhang; Yixin Zhang; Ningmu Zou; Wei Jiang. (CAS 1st, Top, Journal, ***IF 20.6***)
