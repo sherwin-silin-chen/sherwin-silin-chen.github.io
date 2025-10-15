@@ -38,7 +38,7 @@ My research interests is include:
 
 
 # 📝 Publications 
-
+- **[ACM TODAES, 2026]** [You Only Need Non-hotspot: An Unsupervised Training-Free Method for Layout Hotspot Detection](https://dl.acm.org/doi/epdf/10.1145/3771767), **Silin Chen**; Kangjian Di; Yibo Huang; Binwu Zhu; Ningmu Zou. (CCF-B, Journal) 
 - **[ASP DAC, 2026]** [Understand and Detect: Lithographic Hotspot Detection by the Interpretable Graph Attention Network](https://zouningmu.github.io/images/people/Understand%20and%20Detect%20Lithographic%20Hotspot%20Detection%20by%20the%20Interpretable%20Graph%20Attention%20Network.pdf), Andy Liu\#; **Silin Chen\#**; Guohao Wang; Wenzheng Zhao, Yuxiang Fu, Ningmu Zou. (CCF-C, Conference)
 - **[IEEE JEDS]** [Improved Algorithm of Dueling DQN for BSIM Parameter Extraction Task](https://zouningmu.github.io/images/people/Improved%20Algorithm%20of%20Dueling%20DQN__%20for%20BSIM%20Parameter%20Extraction%20Task(JEDS).pdf), Wenjun Chen; Yali Zhang; Zikang Zeng; **Silin Chen**; Kangjian Di; Guohao Wang; Chia-Yen Li; Ningmu Zou.
 - **[IWAPS, 2025]** SVD-based Layout Representation for Lithographic Hotspot Detection, Yibo Huang\#; **Silin Chen\#**; Hao Shu; Jiahao Wang; Wenbo Xu; Ningmu Zou.
