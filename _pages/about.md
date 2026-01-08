@@ -37,7 +37,7 @@ My research interests is include:
 
 
 # 📝 Publications 
-- **[SPIE Advanced Lithography + Patterning, 2026]** [MODiff: Layout Guided Mask Optimization via Diffusion Model.](https://spie.org/advanced-lithography/presentation/MODiff-Layout-guided-mask-optimization-via-diffusion-model/13980-31), Jile Li\#; **Silin Chen\#**; Yiqing Wang; Kangjian Di; Li Du; Ningmu Zou. 
+- **[SPIE Advanced Lithography + Patterning, 2026]** [MODiff: Layout Guided Mask Optimization via Diffusion Model.](https://spie.org/advanced-lithography/presentation/MODiff-Layout-guided-mask-optimization-via-diffusion-model/13980-31), Jiale Li\#; **Silin Chen\#**; Yiqing Wang; Kangjian Di; Li Du; Ningmu Zou. 
 - **[DATE, 2026]** [Node2Node: Node Adaptation with Transformer for Cross-Node Hotspot Detection](https://zouningmu.github.io/images/people/Node2Node__Unsupervised_Node_Adaptation_with_Transformer_for_Cross_Node_Hotspot_Detection.pdf), Wenbo Xu\#; **Silin Chen\#**; Yibo Huang; Xinyun Zhang; Zixiao Wang; Bei Yu; Ningmu Zou. (CCF-B, Conference)
 - **[ACM TODAES, 2026]** [You Only Need Non-hotspot: An Unsupervised Training-Free Method for Layout Hotspot Detection](https://dl.acm.org/doi/epdf/10.1145/3771767), **Silin Chen**; Kangjian Di; Yibo Huang; Binwu Zhu; Ningmu Zou. (CCF-B, Journal) 
 - **[ASP DAC, 2026]** [Understand and Detect: Lithographic Hotspot Detection by the Interpretable Graph Attention Network](https://zouningmu.github.io/images/people/2026_ASP_DAC_camera_ready_%20Understand%20and%20Detect%20Lithographic%20Hotspot%20Detection%20by%20the%20Interpretable%20Graph%20Attention%20Network.pdf), Andy Liu\#; **Silin Chen\#**; Guohao Wang; Wenzheng Zhao; Yuxiang Fu; Ningmu Zou. (CCF-C, Conference)
