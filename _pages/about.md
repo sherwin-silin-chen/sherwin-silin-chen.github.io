@@ -62,7 +62,7 @@ My research interests is include:
 
 
 # 🙏 Preprints
-- [FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection](https://arxiv.org/pdf/2502.21012), **Silin Chen**; Kangjian Di; Yichu Xu; Han-Jia Ye; Wenhan Luo; Ningmu Zou.
+- [FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection](https://arxiv.org/pdf/2502.21012), **Silin Chen**; Andy Liu; Kangjian Di; Yichu Xu; Han-Jia Ye; Wenhan Luo; Ningmu Zou.
 
 
 # 📧 Contact
