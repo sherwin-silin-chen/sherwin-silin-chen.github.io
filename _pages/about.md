@@ -37,10 +37,9 @@ My research interests is include:
 
 
 # 📝 Publications
-- **[ISEDA, 2026]** 
-> * [MODiff: Layout-Guided Mask Optimization via Diffusion Model](https://zouningmu.github.io/images/people/MODiff_ISEDA_CameraReady.pdf), Jiale Li\#; **Silin Chen\#**; Yiqing Wang; Kangjian Di; Li Du; Ningmu Zou.
-> * [Boundary-Only Layout Encoding for Lithography Hotspot Detection](https://zouningmu.github.io/images/people/Boundary_Only_Layout_Encoding_for_Lithography_Hotspot_Detection_ISEDA_CameraReady.pdf), Yufeng Zhang; Zhili Xu; Yuqian Zang; Jiale Li; **Silin Chen**; Zhaoyang Wang; Chihwei Chiang; Ningmu Zou.
-> * [TC-FNO: Fourier Neural Operator with Learnable Time-Step Embedding for 3D Lithography Exposure Simulation](https://zouningmu.github.io/images/people/TC-FNO_ISEDA_CameraReady.pdf), Yuqian Zang; Yiqing Wang; **Silin Chen**; Jiale Li; Zhili Xu; Yufeng Zhang; Hao Zhang; Chia-Yen Li; Ningmu Zou.
+- **[ISEDA, 2026]** [MODiff: Layout-Guided Mask Optimization via Diffusion Model](https://zouningmu.github.io/images/people/MODiff_ISEDA_CameraReady.pdf), Jiale Li\#; **Silin Chen\#**; Yiqing Wang; Kangjian Di; Li Du; Ningmu Zou. 
+[Boundary-Only Layout Encoding for Lithography Hotspot Detection](https://zouningmu.github.io/images/people/Boundary_Only_Layout_Encoding_for_Lithography_Hotspot_Detection_ISEDA_CameraReady.pdf), Yufeng Zhang; Zhili Xu; Yuqian Zang; Jiale Li; **Silin Chen**; Zhaoyang Wang; Chihwei Chiang; Ningmu Zou.
+[TC-FNO: Fourier Neural Operator with Learnable Time-Step Embedding for 3D Lithography Exposure Simulation](https://zouningmu.github.io/images/people/TC-FNO_ISEDA_CameraReady.pdf), Yuqian Zang; Yiqing Wang; **Silin Chen**; Jiale Li; Zhili Xu; Yufeng Zhang; Hao Zhang; Chia-Yen Li; Ningmu Zou.
 - **[IEEE TCAD, 2026]** [Geometric-Robust Contrastive Learning Framework with Layout Topology Representation and Self-Calibration Voting for Hotspot Detection](https://ieeexplore.ieee.org/document/11422940), **Silin Chen**; Kangjian Di; Andy Liu; Guohao Wang; Wenzheng Zhao; Binwu Zhu; Li Du; Ningmu Zou. (**CCF-A**, Journal) 
 - **[CVM, 2026]** <a href='https://huggingface.co/texture-ad'><img src="../images/huggingface.svg" width="15" height="15"></a> [Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development](https://arxiv.org/pdf/2409.06367), Bohan Wang; Tianwu Lei; **Silin Chen**; Shurong Cao; Ningmu Zou. (CCF-C, Conference)
 <!-- - **[SPIE Advanced Lithography + Patterning, 2026]** [MODiff: Layout Guided Mask Optimization via Diffusion Model.](https://spie.org/advanced-lithography/presentation/MODiff-Layout-guided-mask-optimization-via-diffusion-model/13980-31), Jiale Li\#; **Silin Chen\#**; Yiqing Wang; Kangjian Di; Li Du; Ningmu Zou.  -->
