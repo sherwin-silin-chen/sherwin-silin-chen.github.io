@@ -37,6 +37,7 @@ My research interests is include:
 
 
 # 📝 Publications
+- **[JPhys-Phtonics, 2026]** [OptoChat: a large language model with retrieval augmented generation for optics](https://iopscience.iop.org/article/10.1088/2515-7647/ae7491), Xiaoqing Bao\#; Hairuo Wang\#; **Silin Chen\#**; Yali Zhang\#; Wenjun Chen; Kangjian Di; Mengcheng Lv; Minghui Zhao; Guohao Wang; Wenzheng Zhao; Ningmu Zou. 
 - **[Nanoscale, 2026]** [CrossMicroNet: A Cross-Scale Small-Sample Image Restoration Framework for Two-dimensional Material Microscopy Imaging](https://zouningmu.github.io/images/people/Nanoscale.pdf), Mingwei Feng; Xilu Zou; Lei Liu; Shengqiang Wu; Haotian Zhang; **Silin Chen**; Zikang Zeng; Yiru Wang; Xiaotian Zhang; Xuping Zhang; Taotao Li; Ningmu Zou. 
 - **[IEEE Nano, 2026]** [Dynamic Processes in Chemical-Vapor Deposition of Transition-Metal Dichalcogenides Revealed by AI-Driven Operando Metrology](https://zouningmu.github.io/images/people/IEEE%20NANO.pdf), Mingwei Feng; Xilu Zou; Haotian Zhang; Caiqi Zou; **Silin Chen**; Wei Xu; Xiaotian Zhang; Taotao Li; Ningmu Zou. 
 - **[ISEDA, 2026]** <br>
