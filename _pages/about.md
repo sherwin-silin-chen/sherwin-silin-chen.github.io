@@ -22,7 +22,9 @@ My research interests is include:
 * AI for Remote Sensing (Small Object Detection/Segmentation in Remote Sening Image)
 * Deep Learning for Computer Vision. 
 
-**I'm current working on AI for Chips.** I have published 10+ papers with <a href='https://scholar.google.com/citations?user=2MvuH1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+**I'm current working on AI for Chips.** I have published 20+ papers with <a href='https://scholar.google.com/citations?user=2MvuH1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+
+<span class='anchor' id='educations-and-work-experience'></span>
 
 # 📖 Educations and Work Experience
 - *2024.09 - Now*, (Ph.D.) School of Integrated Circuits, Nanjing University, Suzhou, Jiangsu, China. Supervisior: [Ningmu Zou](https://zouningmu.github.io)
@@ -32,9 +34,13 @@ My research interests is include:
 - *2016.09 - 2020.06*, (B.E.) School of Computer Science and Technology, China University of Mining and Technology, Xuzhou, Jiangsu, China.
 
  
-# 💬 Talk 
+<span class='anchor' id='talks'></span>
+
+# 💬 Talks 
 - **[SPIE/COS Phtonics Asia, Beijing, China, Oct.12-14, 2025]** [OptoChat: a large language model with retrieval augmented generation for optics.](https://spie.org/spie-cos-photonics-asia/presentation/OptoChat--A-large-language-model-with-retrieval-augmented-generation/13727-8) 
 
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications
 - **[IEEE/Optica JLT, 2026]** [All-Optical Wearable Gesture Sensing with a Learnable Photonic Linear Filter Bank for Near-Sensor Classification](https://ieeexplore.ieee.org/document/11557116), Kangjian Di; Jiashu Li; **Silin Chen**; Shengdi Chen; Fuhao Yu; Nasheeta Mazhar; Wei Jiang; Xuping Zhang; Yixin Zhang; Ningmu Zou.
@@ -72,6 +78,8 @@ My research interests is include:
 # 🙏 Preprints
 - [FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection](https://arxiv.org/pdf/2502.21012), **Silin Chen**; Andy Liu; Kangjian Di; Yichu Xu; Han-Jia Ye; Wenhan Luo; Ningmu Zou.
 
+
+<span class='anchor' id='contact'></span>
 
 # 📧 Contact
 
