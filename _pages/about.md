@@ -7,12 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 
 Hi~, I'm a second-year Ph.D. student at the School of Integrated Circuits in the Nanjing University (NJU), supervised by the Associate Prof [Ningmu Zou](https://zouningmu.github.io). Previously I received my B.S. degree in 2020 and my M.S. degree in 2023, at the School of Computer Science and Technology, China University of Mining and Technology (CUMT).
@@ -22,7 +16,7 @@ My research interests is include:
 * AI for Remote Sensing (Small Object Detection/Segmentation in Remote Sening Image)
 * Deep Learning for Computer Vision. 
 
-**I'm current working on AI for Chips.** I have published 20+ papers with <a href='https://scholar.google.com/citations?user=2MvuH1QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+**I'm current working on AI for Chips.** I have published 20+ papers with <a href="{{ site.author.googlescholar }}">Google Scholar citations (<span id="total_cit">N/A</span>)</a>.
 
 <span class='anchor' id='educations-and-work-experience'></span>
 

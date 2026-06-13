@@ -17,12 +17,28 @@ jobs:
       run: |
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
-        python3 main.py
+        mkdir -p results
+        git fetch origin google-scholar-stats || true
+        python3 main.py || true
+        if [[ ! -s results/gs_data.json ]]; then
+          git show origin/google-scholar-stats:gs_data.json > results/gs_data.json || true
+        fi
+        if [[ ! -s results/gs_data_shieldsio.json ]]; then
+          git show origin/google-scholar-stats:gs_data_shieldsio.json > results/gs_data_shieldsio.json || true
+        fi
+        if [[ ! -s results/gs_data.json || ! -s results/gs_data_shieldsio.json ]]; then
+          echo "Missing citation data files"
+          exit 1
+        fi
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
+        if git diff --cached --quiet; then
+          echo "No citation data changes"
+          exit 0
+        fi
         git commit -m "Updated Citation Data"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
       env: 
