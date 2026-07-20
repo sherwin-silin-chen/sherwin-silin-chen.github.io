@@ -37,6 +37,7 @@ My research interests is include:
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
+- **[Nature Communications, 2026]** [Wavelength-encoded neuromorphic inference enabled by microcavity MoS2 photodetector arrays](https://ieeexplore.ieee.org/document/11557116), Xiang Chen; Kangjian Di; Fuhao Yu; Jiashu Li; Lixiang Sun; Shengdi Chen; **Silin Chen**; Andy Liu; Xiang Peng; Shitong Zhu; Taotao Li; Wei Jiang; Xuping Zhang; Yi Shi; Xinran Wang; Li Gao; Zehua Hu; Ningmu Zou.
 - **[IEEE/Optica JLT, 2026]** [All-Optical Wearable Gesture Sensing with a Learnable Photonic Linear Filter Bank for Near-Sensor Classification](https://ieeexplore.ieee.org/document/11557116), Kangjian Di; Jiashu Li; **Silin Chen**; Shengdi Chen; Fuhao Yu; Nasheeta Mazhar; Wei Jiang; Xuping Zhang; Yixin Zhang; Ningmu Zou.
 - **[JPhys-Phtonics, 2026]** [OptoChat: a large language model with retrieval augmented generation for optics](https://iopscience.iop.org/article/10.1088/2515-7647/ae7491), Xiaoqing Bao\#; Hairuo Wang\#; **Silin Chen\#**; Yali Zhang\#; Wenjun Chen; Kangjian Di; Mengcheng Lv; Minghui Zhao; Guohao Wang; Wenzheng Zhao; Ningmu Zou. 
 - **[Nanoscale, 2026]** [CrossMicroNet: A Cross-Scale Small-Sample Image Restoration Framework for Two-dimensional Material Microscopy Imaging](https://zouningmu.github.io/images/people/Nanoscale.pdf), Mingwei Feng; Xilu Zou; Lei Liu; Shengqiang Wu; Haotian Zhang; **Silin Chen**; Zikang Zeng; Yiru Wang; Xiaotian Zhang; Xuping Zhang; Taotao Li; Ningmu Zou. 
