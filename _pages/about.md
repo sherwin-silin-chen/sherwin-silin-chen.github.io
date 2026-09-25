@@ -43,8 +43,13 @@ My research interests is include:
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
-
-
+- **[ASP-DAC, 2027]** <br>
+  - Curvilinear OPC via Diffeomorphic Deformation, **Silin Chen**, Kangjian Di, Jiale Li, Binwu Zhu; Ningmu Zou. <br>
+  - ResistONet: Cascade Operator Network for Photoresist Simulation, Yiqing Wang\#; **Silin Chen\#**; Yuqian Zang; Jiale Li; Xiaodong Meng; Ningmu Zou. <br>
+  - Chain of SRAF Generation: A Large Reasoning Model for Sub-resolution Assist Features, Jiale Li\#; **Silin Chen\#**; Yufeng Zhang; Zhili Xu; Yiqing Wang; Wenbo Xu; Ziyang Yu; Bei Yu; Ningmu Zou. <br>
+  - EtchMO: A Differentiable Etch Model for Mask Optimization, Jiale Li; **Silin Chen**; Yiqing Wang; Yali Zhang; Yang Xia; Ningmu Zou. <br>
+- **[ICCAD, 2026]** [RWAD: Reliability-Guided Text-Free Zero-Shot Wafer Anomaly Detection](https://zouningmu.github.io/images/people/ICCAD2026.pdf), Haowen Lan; Tianrui Zhang; Ziheng Zang; **Silin Chen**; Kangjian Di; Andy Liu; Guohao Wang; Wenzheng Zhao; Ningmu Zou.
+- **[ITC-Asia, 2026]** Bridging Geometric Learning and Pattern Decoupling for Mixed-Type Wafer Defect Recognition via Dual-Collaborative Graph Learning, Yali Zhang\#; **Silin Chen\#**; Haotian Zhang; Mingwei Feng; Zhijie Sasha Dong; Jun Lin; Ningmu Zou.
 - **[Optica, 2026]** [Distillation-guided optical neural networks with reinforcement learning-assisted calibration](https://doi.org/10.1364/OPTICA.591264), Kangjian Di\#; Fuhao Yu\#; **Silin Chen\#**; Jiashu Li; Andy Liu; Sen Shao; Zhiyuan Shi; Xuping Zhang; Yixin Zhang; Wei Jiang; Ningmu Zou.
 - **[Nature Communications, 2026]** [Wavelength-encoded neuromorphic inference enabled by microcavity MoS2 photodetector arrays](https://ieeexplore.ieee.org/document/11557116), Xiang Chen; Kangjian Di; Fuhao Yu; Jiashu Li; Lixiang Sun; Shengdi Chen; **Silin Chen**; Andy Liu; Xiang Peng; Shitong Zhu; Taotao Li; Wei Jiang; Xuping Zhang; Yi Shi; Xinran Wang; Li Gao; Zehua Hu; Ningmu Zou.
 - **[IEEE/Optica JLT, 2026]** [All-Optical Wearable Gesture Sensing with a Learnable Photonic Linear Filter Bank for Near-Sensor Classification](https://ieeexplore.ieee.org/document/11557116), Kangjian Di; Jiashu Li; **Silin Chen**; Shengdi Chen; Fuhao Yu; Nasheeta Mazhar; Wei Jiang; Xuping Zhang; Yixin Zhang; Ningmu Zou.
