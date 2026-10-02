@@ -26,12 +26,62 @@ My research interests is include:
 
 <span class='anchor' id='educations-and-work-experience'></span>
 
-# 📖 Educations and Work Experience
-- *2024.09 - Now*, (Ph.D.) School of Integrated Circuits, Nanjing University, Suzhou, Jiangsu, China. Supervisior: [Ningmu Zou](https://zouningmu.github.io)
-- *2023.07 - 2024.07*, (Engineer) Intelligent Computing Center, Xpeng Inc., ShangHai, China. 
-- *2022.06 - 2023.01*, (Research Intern) Big Data Lab, Baidu Research, Beijing, China. Mentor: [Qingzhong Wang](https://qingzwang.github.io).
-- *2020.09 - 2023.06*, (M.S.) School of Computer Science and Technology, China University of Mining and Technology, Xuzhou, Jiangsu, China. Supervisor: [Yong Zhou](https://cs.cumt.edu.cn/info/1016/1065.htm), [Jiaqi Zhao](https://www.scholat.com/zhaojiaqi).
-- *2016.09 - 2020.06*, (B.E.) School of Computer Science and Technology, China University of Mining and Technology, Xuzhou, Jiangsu, China.
+<span class='anchor' id='education'></span>
+
+# 📖 Education
+
+<ul class="experience-list">
+  <li class="experience-item">
+    <div class="experience-logo"><img src="{{ '/images/nju-logo.svg' | relative_url }}" alt="Nanjing University logo" width="72" height="80" loading="lazy"></div>
+    <div class="experience-details">
+      <strong>Nanjing University (NJU)</strong>
+      <p><em>2024.09 - Now</em> · Ph.D.</p>
+      <p>School of Integrated Circuits, Suzhou, Jiangsu, China.</p>
+      <p>Supervisor: <a href="https://zouningmu.github.io">Ningmu Zou</a>.</p>
+    </div>
+  </li>
+  <li class="experience-item">
+    <div class="experience-logo"><img src="{{ '/images/cumt-logo.png' | relative_url }}" alt="China University of Mining and Technology logo" width="80" height="80" loading="lazy"></div>
+    <div class="experience-details">
+      <strong>China University of Mining and Technology (CUMT)</strong>
+      <p><em>2020.09 - 2023.06</em> · M.S.</p>
+      <p>School of Computer Science and Technology, Xuzhou, Jiangsu, China.</p>
+      <p>Supervisors: <a href="https://cs.cumt.edu.cn/info/1016/1065.htm">Yong Zhou</a>, <a href="https://www.scholat.com/zhaojiaqi">Jiaqi Zhao</a>.</p>
+    </div>
+  </li>
+  <li class="experience-item">
+    <div class="experience-logo"><img src="{{ '/images/cumt-logo.png' | relative_url }}" alt="China University of Mining and Technology logo" width="80" height="80" loading="lazy"></div>
+    <div class="experience-details">
+      <strong>China University of Mining and Technology (CUMT)</strong>
+      <p><em>2016.09 - 2020.06</em> · B.E.</p>
+      <p>School of Computer Science and Technology, Xuzhou, Jiangsu, China.</p>
+    </div>
+  </li>
+</ul>
+
+<span class='anchor' id='work-experience'></span>
+
+# 💼 Work Experience
+
+<ul class="experience-list">
+  <li class="experience-item">
+    <div class="experience-logo experience-logo--company"><img src="{{ '/images/xpeng-logo.svg' | relative_url }}" alt="XPeng logo" width="104" height="48" loading="lazy"></div>
+    <div class="experience-details">
+      <strong>XPeng Inc.</strong>
+      <p><em>2023.07 - 2024.07</em> · Engineer</p>
+      <p>Intelligent Computing Center, Shanghai, China.</p>
+    </div>
+  </li>
+  <li class="experience-item">
+    <div class="experience-logo experience-logo--company"><img src="{{ '/images/baidu-logo.svg' | relative_url }}" alt="Baidu logo" width="72" height="72" loading="lazy"></div>
+    <div class="experience-details">
+      <strong>Baidu Research</strong>
+      <p><em>2022.06 - 2023.01</em> · Research Intern</p>
+      <p>Big Data Lab, Beijing, China.</p>
+      <p>Mentor: <a href="https://qingzwang.github.io">Qingzhong Wang</a>.</p>
+    </div>
+  </li>
+</ul>
 
  
 <span class='anchor' id='talks'></span>
