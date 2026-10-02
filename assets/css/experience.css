@@ -7,9 +7,9 @@
 
 .page__content .experience-list > .experience-item {
   display: grid;
-  grid-template-columns: 72px minmax(0, 1fr);
+  grid-template-columns: 36px minmax(0, 1fr);
   align-items: center;
-  column-gap: 18px;
+  column-gap: 12px;
   margin: 0 0 20px;
   padding: 0;
 }
@@ -22,28 +22,28 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 72px;
-  min-height: 64px;
+  width: 36px;
+  min-height: 32px;
 }
 
 .page__content .experience-logo img {
   display: block;
   width: auto;
-  height: 64px;
-  max-width: 64px;
+  height: 32px;
+  max-width: 32px;
   margin: 0;
   object-fit: contain;
 }
 
 .page__content .experience-logo img.experience-logo--xpeng {
-  width: 64px;
+  width: 32px;
   height: auto;
 }
 
 .page__content .experience-logo--amedac-frame {
   position: relative;
-  width: 64px;
-  height: 64px;
+  width: 32px;
+  height: 32px;
   min-height: 0;
   overflow: hidden;
   justify-self: center;
@@ -54,7 +54,7 @@
   left: 0;
   top: 50%;
   width: auto;
-  height: 96px;
+  height: 48px;
   max-width: none;
   transform: translateY(-50%);
 }
@@ -65,39 +65,60 @@
 }
 
 .page__content .experience-details p {
-  margin: 0;
+  margin: 3px 0 0;
+  font-size: 0.88em;
   line-height: inherit;
   text-indent: 0;
 }
 
+.experience-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px 16px;
+}
+.experience-heading > strong { min-width: 0; }
+.experience-qualifications {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 3px 12px;
+  flex-shrink: 0;
+  font-size: 0.9em;
+  color: #58636c;
+}
+.experience-qualifications > span { white-space: nowrap; }
+
 @media (max-width: 600px) {
   .page__content .experience-list > .experience-item {
-    grid-template-columns: 52px minmax(0, 1fr);
-    column-gap: 12px;
+    grid-template-columns: 28px minmax(0, 1fr);
+    column-gap: 10px;
     margin-bottom: 18px;
   }
 
   .page__content .experience-logo {
-    width: 52px;
-    min-height: 48px;
+    width: 28px;
+    min-height: 28px;
   }
 
   .page__content .experience-logo img {
-    height: 48px;
-    max-width: 48px;
+    height: 28px;
+    max-width: 28px;
   }
 
   .page__content .experience-logo img.experience-logo--xpeng {
-    width: 48px;
+    width: 28px;
   }
 
   .page__content .experience-logo--amedac-frame {
-    width: 48px;
-    height: 48px;
+    width: 28px;
+    height: 28px;
     min-height: 0;
   }
 
   .page__content .experience-logo img.experience-logo--amedac {
-    height: 72px;
+    height: 42px;
   }
+  .experience-heading { flex-direction: column; align-items: flex-start; gap: 2px; }
+  .experience-qualifications { justify-content: flex-start; flex-shrink: 1; }
 }

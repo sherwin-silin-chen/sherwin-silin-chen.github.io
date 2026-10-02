@@ -47,7 +47,8 @@
   padding: 0;
   margin: 0;
 }
-.page__content .publication-list > .publication-item {
+.page__content .publication-list > .publication-item,
+.page__content .talks-list > .publication-item {
   display: grid;
   grid-template-columns: minmax(0, 11.5em) minmax(0, 1fr);
   align-items: start;
@@ -98,6 +99,7 @@
 .page__content .honors-list li:last-child { border-bottom: 0; }
 .honor-year { font-size: 0.88em; font-variant-numeric: tabular-nums; color: #647e8e; white-space: nowrap; }
 @media (max-width: 600px) {
-  .page__content .publication-list > .publication-item { grid-template-columns: minmax(0, 6.7em) minmax(0, 1fr); column-gap: 12px; padding: 16px 0; }
+  .page__content .publication-list > .publication-item,
+  .page__content .talks-list > .publication-item { grid-template-columns: minmax(0, 6.7em) minmax(0, 1fr); column-gap: 12px; padding: 16px 0; }
   .page__content .honors-list li { gap: 12px; }
 }

@@ -21,5 +21,8 @@ main:
   # - title: "Preprints"
   #   url: "/#preprints"
 
+  - title: "Services"
+    url: "/#services"
+
   - title: "Contact"
     url: "/#contact"

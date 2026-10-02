@@ -2,22 +2,24 @@
 .page__content .experience-list > .experience-item,
 .page__content .publication-list > .publication-item,
 .page__content .honors-list > li,
-.page__content .talks-list > li {
+.page__content .talks-list > .publication-item,
+.page__content .services-list > li {
   margin: 0 0 14px;
   padding: 16px 18px;
   background: #fff;
-  border: 1px solid #e6edf1;
+  border: 1px solid #e5e3df;
   border-radius: 8px;
-  box-shadow: 0 2px 7px rgba(52, 73, 85, 0.05);
+  box-shadow: 0 2px 7px rgba(55, 50, 43, 0.05);
   transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
 }
 
 .page__content .experience-list > .experience-item:last-child,
 .page__content .publication-list > .publication-item:last-child,
 .page__content .honors-list > li:last-child,
-.page__content .talks-list > li:last-child {
+.page__content .talks-list > .publication-item:last-child,
+.page__content .services-list > li:last-child {
   margin-bottom: 0;
-  border-bottom: 1px solid #e6edf1;
+  border-bottom: 1px solid #e5e3df;
 }
 
 .page__content ul.talks-list {
@@ -26,21 +28,55 @@
   margin: 0.7em 0 1.5em;
 }
 
+.page__content ul.services-list {
+  list-style: none;
+  padding: 0;
+  margin: 0.7em 0 1.5em;
+}
+.page__content .service-heading {
+  margin: 0 0 0.5em;
+  color: #344955;
+  font-size: 1em;
+}
+.page__content ul.service-venues {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px 12px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.page__content .service-venues > li {
+  margin: 0;
+  padding: 0;
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: #58636c;
+  overflow-wrap: anywhere;
+}
+.service-venues > li:not(:last-child)::after { content: ';'; }
+
+.page__content .experience-list > .experience-item {
+  padding: 10px 14px;
+  margin-bottom: 10px;
+}
+
 .page__content .experience-list > .experience-item:focus-within,
 .page__content .publication-list > .publication-item:focus-within,
-.page__content .talks-list > li:focus-within {
-  border-color: #cbdbe5;
-  box-shadow: 0 7px 18px rgba(52, 73, 85, 0.1);
+.page__content .talks-list > .publication-item:focus-within {
+  border-color: #cbc7bf;
+  box-shadow: 0 7px 18px rgba(55, 50, 43, 0.1);
 }
 
 @media (hover: hover) and (pointer: fine) {
   .page__content .experience-list > .experience-item:hover,
   .page__content .publication-list > .publication-item:hover,
   .page__content .honors-list > li:hover,
-  .page__content .talks-list > li:hover {
+  .page__content .talks-list > .publication-item:hover,
+  .page__content .services-list > li:hover {
     transform: translateY(-3px);
-    border-color: #cbdbe5;
-    box-shadow: 0 7px 18px rgba(52, 73, 85, 0.1);
+    border-color: #cbc7bf;
+    box-shadow: 0 7px 18px rgba(55, 50, 43, 0.1);
   }
 }
 
@@ -48,7 +84,8 @@
   .page__content .experience-list > .experience-item,
   .page__content .publication-list > .publication-item,
   .page__content .honors-list > li,
-  .page__content .talks-list > li {
+  .page__content .talks-list > .publication-item,
+  .page__content .services-list > li {
     padding: 14px 12px;
     margin-bottom: 12px;
   }
@@ -58,7 +95,8 @@
   .page__content .experience-list > .experience-item,
   .page__content .publication-list > .publication-item,
   .page__content .honors-list > li,
-  .page__content .talks-list > li {
+  .page__content .talks-list > .publication-item,
+  .page__content .services-list > li {
     transform: none;
     transition: none;
   }
@@ -68,7 +106,8 @@
   .page__content .experience-list > .experience-item,
   .page__content .publication-list > .publication-item,
   .page__content .honors-list > li,
-  .page__content .talks-list > li {
+  .page__content .talks-list > .publication-item,
+  .page__content .services-list > li {
     box-shadow: none;
     transform: none;
     transition: none;
