@@ -32,7 +32,7 @@ My research interests is include:
 
 <ul class="experience-list">
   <li class="experience-item">
-    <div class="experience-logo"><img src="{{ '/images/nju-logo.svg' | relative_url }}" alt="Nanjing University logo" width="72" height="80" loading="lazy"></div>
+    <div class="experience-logo"><img src="{{ '/images/nju-logo.svg' | relative_url }}" alt="Nanjing University logo" width="52" height="64" loading="lazy"></div>
     <div class="experience-details">
       <strong>Nanjing University (NJU)</strong>
       <p><em>2024.09 - Now</em> · Ph.D.</p>
@@ -41,7 +41,7 @@ My research interests is include:
     </div>
   </li>
   <li class="experience-item">
-    <div class="experience-logo"><img src="{{ '/images/cumt-logo.png' | relative_url }}" alt="China University of Mining and Technology logo" width="80" height="80" loading="lazy"></div>
+    <div class="experience-logo"><img src="{{ '/images/cumt-logo.png' | relative_url }}" alt="China University of Mining and Technology logo" width="64" height="64" loading="lazy"></div>
     <div class="experience-details">
       <strong>China University of Mining and Technology (CUMT)</strong>
       <p><em>2020.09 - 2023.06</em> · M.S.</p>
@@ -50,7 +50,7 @@ My research interests is include:
     </div>
   </li>
   <li class="experience-item">
-    <div class="experience-logo"><img src="{{ '/images/cumt-logo.png' | relative_url }}" alt="China University of Mining and Technology logo" width="80" height="80" loading="lazy"></div>
+    <div class="experience-logo"><img src="{{ '/images/cumt-logo.png' | relative_url }}" alt="China University of Mining and Technology logo" width="64" height="64" loading="lazy"></div>
     <div class="experience-details">
       <strong>China University of Mining and Technology (CUMT)</strong>
       <p><em>2016.09 - 2020.06</em> · B.E.</p>
@@ -65,7 +65,7 @@ My research interests is include:
 
 <ul class="experience-list">
   <li class="experience-item">
-    <div class="experience-logo experience-logo--company"><img src="{{ '/images/xpeng-logo.svg' | relative_url }}" alt="XPeng logo" width="104" height="48" loading="lazy"></div>
+    <div class="experience-logo"><img src="{{ '/images/xpeng-symbol.svg' | relative_url }}" class="experience-logo--xpeng" alt="XPeng logo" width="64" height="33" loading="lazy"></div>
     <div class="experience-details">
       <strong>XPeng Inc.</strong>
       <p><em>2023.07 - 2024.07</em> · Engineer</p>
@@ -73,7 +73,7 @@ My research interests is include:
     </div>
   </li>
   <li class="experience-item">
-    <div class="experience-logo experience-logo--company"><img src="{{ '/images/baidu-logo.svg' | relative_url }}" alt="Baidu logo" width="72" height="72" loading="lazy"></div>
+    <div class="experience-logo"><img src="{{ '/images/baidu-logo.svg' | relative_url }}" alt="Baidu logo" width="60" height="60" loading="lazy"></div>
     <div class="experience-details">
       <strong>Baidu Research</strong>
       <p><em>2022.06 - 2023.01</em> · Research Intern</p>
