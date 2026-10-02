@@ -1,19 +1,25 @@
 <li class="publication-item">
+  <div class="publication-venue-column">
+    <span class="publication-venue"><span class="publication-venue-name">{{ include.paper.venue | escape }}</span>{% if include.paper.year %} <span class="publication-year">{{ include.paper.year }}</span>{% endif %}</span>
+    {% if include.paper.resources.size > 0 %}
+    <div class="publication-meta">
+      {% for resource in include.paper.resources %}
+      <a class="publication-resource" href="{{ resource.url | escape }}">
+        {% if resource.url contains 'github.com/' %}<img class="publication-resource-logo" src="{{ '/images/github.svg' | relative_url }}" alt="" width="16" height="16" loading="lazy">{% elsif resource.url contains 'huggingface.co/' %}<img class="publication-resource-logo" src="{{ '/images/huggingface.svg' | relative_url }}" alt="" width="16" height="16" loading="lazy">{% endif %}
+        <span>{{ resource.label | escape }}</span>
+      </a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
   <div class="publication-details">
     <div class="publication-heading">
-    <span class="publication-venue"><span class="publication-venue-name">{{ include.paper.venue | escape }}</span>{% if include.paper.year %} <span class="publication-year">{{ include.paper.year }}</span>{% endif %}</span>
-    {% if include.paper.url %}
-    <a class="publication-title" href="{{ include.paper.url | escape }}">{{ include.paper.title | escape }}</a>
-    {% else %}
-    <span class="publication-title">{{ include.paper.title | escape }}</span>
-    {% endif %}
+      {% if include.paper.url %}
+      <a class="publication-title" href="{{ include.paper.url | escape }}">{{ include.paper.title | escape }}</a>
+      {% else %}
+      <span class="publication-title">{{ include.paper.title | escape }}</span>
+      {% endif %}
     </div>
     <div class="publication-authors">{{ include.paper.authors | markdownify | replace: '#', '<sup>#</sup>' }}</div>
-    {% if include.paper.note != '' or include.paper.resources.size > 0 %}
-    <div class="publication-meta">
-      {% if include.paper.note != '' %}<span>{{ include.paper.note | markdownify }}</span>{% endif %}
-      {% for resource in include.paper.resources %}<a class="publication-resource" href="{{ resource.url | escape }}">{{ resource.label | escape }}</a>{% endfor %}
-    </div>
-    {% endif %}
   </div>
 </li>

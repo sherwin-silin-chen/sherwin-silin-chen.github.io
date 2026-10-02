@@ -5,7 +5,6 @@
     "title": "Curvilinear OPC via Diffeomorphic Deformation",
     "url": null,
     "authors": "**Silin Chen**, Kangjian Di, Jiale Li, Binwu Zhu; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "first"
   },
@@ -15,7 +14,6 @@
     "title": "ResistONet: Cascade Operator Network for Photoresist Simulation",
     "url": null,
     "authors": "Yiqing Wang\\#; **Silin Chen\\#**; Yuqian Zang; Jiale Li; Xiaodong Meng; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "co-first"
   },
@@ -25,7 +23,6 @@
     "title": "Chain of SRAF Generation: A Large Reasoning Model for Sub-resolution Assist Features",
     "url": null,
     "authors": "Jiale Li\\#; **Silin Chen\\#**; Yufeng Zhang; Zhili Xu; Yiqing Wang; Wenbo Xu; Ziyang Yu; Bei Yu; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "co-first"
   },
@@ -35,7 +32,6 @@
     "title": "EtchMO: A Differentiable Etch Model for Mask Optimization",
     "url": null,
     "authors": "Jiale Li; **Silin Chen**; Yiqing Wang; Yali Zhang; Yang Xia; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "other"
   },
@@ -45,7 +41,6 @@
     "title": "RWAD: Reliability-Guided Text-Free Zero-Shot Wafer Anomaly Detection",
     "url": "https://zouningmu.github.io/images/people/ICCAD2026.pdf",
     "authors": "Haowen Lan; Tianrui Zhang; Ziheng Zang; **Silin Chen**; Kangjian Di; Andy Liu; Guohao Wang; Wenzheng Zhao; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "other"
   },
@@ -55,7 +50,6 @@
     "title": "Bridging Geometric Learning and Pattern Decoupling for Mixed-Type Wafer Defect Recognition via Dual-Collaborative Graph Learning",
     "url": null,
     "authors": "Yali Zhang\\#; **Silin Chen\\#**; Haotian Zhang; Mingwei Feng; Zhijie Sasha Dong; Jun Lin; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "co-first"
   },
@@ -65,7 +59,6 @@
     "title": "Distillation-guided optical neural networks with reinforcement learning-assisted calibration",
     "url": "https://doi.org/10.1364/OPTICA.591264",
     "authors": "Kangjian Di\\#; Fuhao Yu\\#; **Silin Chen\\#**; Jiashu Li; Andy Liu; Sen Shao; Zhiyuan Shi; Xuping Zhang; Yixin Zhang; Wei Jiang; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "co-first"
   },
@@ -75,7 +68,6 @@
     "title": "Wavelength-encoded neuromorphic inference enabled by microcavity MoS2 photodetector arrays",
     "url": "https://ieeexplore.ieee.org/document/11557116",
     "authors": "Xiang Chen; Kangjian Di; Fuhao Yu; Jiashu Li; Lixiang Sun; Shengdi Chen; **Silin Chen**; Andy Liu; Xiang Peng; Shitong Zhu; Taotao Li; Wei Jiang; Xuping Zhang; Yi Shi; Xinran Wang; Li Gao; Zehua Hu; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "other"
   },
@@ -85,7 +77,6 @@
     "title": "All-Optical Wearable Gesture Sensing with a Learnable Photonic Linear Filter Bank for Near-Sensor Classification",
     "url": "https://ieeexplore.ieee.org/document/11557116",
     "authors": "Kangjian Di; Jiashu Li; **Silin Chen**; Shengdi Chen; Fuhao Yu; Nasheeta Mazhar; Wei Jiang; Xuping Zhang; Yixin Zhang; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "other"
   },
@@ -95,7 +86,6 @@
     "title": "OptoChat: a large language model with retrieval augmented generation for optics",
     "url": "https://iopscience.iop.org/article/10.1088/2515-7647/ae7491",
     "authors": "Xiaoqing Bao\\#; Hairuo Wang\\#; **Silin Chen\\#**; Yali Zhang\\#; Wenjun Chen; Kangjian Di; Mengcheng Lv; Minghui Zhao; Guohao Wang; Wenzheng Zhao; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "co-first"
   },
@@ -105,7 +95,6 @@
     "title": "CrossMicroNet: A Cross-Scale Small-Sample Image Restoration Framework for Two-dimensional Material Microscopy Imaging",
     "url": "https://zouningmu.github.io/images/people/Nanoscale.pdf",
     "authors": "Mingwei Feng; Xilu Zou; Lei Liu; Shengqiang Wu; Haotian Zhang; **Silin Chen**; Zikang Zeng; Yiru Wang; Xiaotian Zhang; Xuping Zhang; Taotao Li; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "other"
   },
@@ -115,7 +104,6 @@
     "title": "Dynamic Processes in Chemical-Vapor Deposition of Transition-Metal Dichalcogenides Revealed by AI-Driven Operando Metrology",
     "url": "https://zouningmu.github.io/images/people/IEEE%20NANO.pdf",
     "authors": "Mingwei Feng; Xilu Zou; Haotian Zhang; Caiqi Zou; **Silin Chen**; Wei Xu; Xiaotian Zhang; Taotao Li; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "other"
   },
@@ -125,7 +113,6 @@
     "title": "MODiff: Layout-Guided Mask Optimization via Diffusion Model",
     "url": "https://zouningmu.github.io/images/people/MODiff_ISEDA_CameraReady.pdf",
     "authors": "Jiale Li\\#; **Silin Chen\\#**; Yiqing Wang; Kangjian Di; Li Du; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "co-first"
   },
@@ -135,7 +122,6 @@
     "title": "Boundary-Only Layout Encoding for Lithography Hotspot Detection",
     "url": "https://zouningmu.github.io/images/people/Boundary_Only_Layout_Encoding_for_Lithography_Hotspot_Detection_ISEDA_CameraReady.pdf",
     "authors": "Yufeng Zhang; Zhili Xu; Yuqian Zang; Jiale Li; **Silin Chen**; Zhaoyang Wang; Chihwei Chiang; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "other"
   },
@@ -145,7 +131,6 @@
     "title": "TC-FNO: Fourier Neural Operator with Learnable Time-Step Embedding for 3D Lithography Exposure Simulation",
     "url": "https://zouningmu.github.io/images/people/TC-FNO_ISEDA_CameraReady.pdf",
     "authors": "Yuqian Zang; Yiqing Wang; **Silin Chen**; Jiale Li; Zhili Xu; Yufeng Zhang; Hao Zhang; Chia-Yen Li; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "other"
   },
@@ -155,7 +140,6 @@
     "title": "Geometric-Robust Contrastive Learning Framework with Layout Topology Representation and Self-Calibration Voting for Hotspot Detection",
     "url": "https://ieeexplore.ieee.org/document/11422940",
     "authors": "**Silin Chen**; Kangjian Di; Andy Liu; Guohao Wang; Wenzheng Zhao; Binwu Zhu; Li Du; Ningmu Zou.",
-    "note": "**CCF-A**, Journal",
     "resources": [],
     "group": "first"
   },
@@ -165,7 +149,6 @@
     "title": "Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development",
     "url": "https://arxiv.org/pdf/2409.06367",
     "authors": "Bohan Wang; Tianwu Lei; **Silin Chen**; Shurong Cao; Ningmu Zou.",
-    "note": "CCF-C, Conference",
     "resources": [
       {
         "url": "https://huggingface.co/texture-ad",
@@ -180,7 +163,6 @@
     "title": "Node2Node: Node Adaptation with Transformer for Cross-Node Hotspot Detection",
     "url": "https://ieeexplore.ieee.org/document/11539589",
     "authors": "Wenbo Xu\\#; **Silin Chen\\#**; Yibo Huang; Xinyun Zhang; Zixiao Wang; Bei Yu; Ningmu Zou.",
-    "note": "CCF-B, Conference",
     "resources": [],
     "group": "co-first"
   },
@@ -190,7 +172,6 @@
     "title": "You Only Need Non-hotspot: An Unsupervised Training-Free Method for Layout Hotspot Detection",
     "url": "https://dl.acm.org/doi/epdf/10.1145/3771767",
     "authors": "**Silin Chen**; Kangjian Di; Yibo Huang; Binwu Zhu; Ningmu Zou.",
-    "note": "CCF-B, Journal",
     "resources": [],
     "group": "first"
   },
@@ -200,7 +181,6 @@
     "title": "Understand and Detect: Lithographic Hotspot Detection by the Interpretable Graph Attention Network",
     "url": "https://ieeexplore.ieee.org/document/11420514",
     "authors": "Andy Liu\\#; **Silin Chen\\#**; Guohao Wang; Wenzheng Zhao; Yuxiang Fu; Ningmu Zou.",
-    "note": "CCF-C, Conference",
     "resources": [],
     "group": "co-first"
   },
@@ -210,7 +190,6 @@
     "title": "Improved Algorithm of Dueling DQN for BSIM Parameter Extraction Task",
     "url": "https://ieeexplore.ieee.org/document/11197319",
     "authors": "Wenjun Chen; Yali Zhang; Zikang Zeng; **Silin Chen**; Kangjian Di; Guohao Wang; Chia-Yen Li; Ningmu Zou.",
-    "note": "",
     "resources": [
       {
         "url": "https://github.com/zouningmu/Dueling_DQN_for_BSIM.",
@@ -225,7 +204,6 @@
     "title": "SVD-based Layout Representation for Lithographic Hotspot Detection",
     "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13991/1399114/SVD-based-layout-representation-for-lithographic-hotspot-detection/10.1117/12.3093251.short",
     "authors": "Yibo Huang\\#; **Silin Chen\\#**; Hao Shu; Jiahao Wang; Wenbo Xu; Ningmu Zou.",
-    "note": "",
     "resources": [],
     "group": "co-first"
   },
@@ -235,7 +213,6 @@
     "title": "When Transformer Meets Layout Hotspot: An End-to-End Transformer-based Detector with Prior Lithography",
     "url": "https://dl.acm.org/doi/10.1145/3716368.3735160",
     "authors": "Wenbo Xu\\#; **Silin Chen\\#**; Jiale Li; Kangjian Di; Yuxiang Fu; Ningmu Zou.",
-    "note": "CCF-C, Conference",
     "resources": [],
     "group": "co-first"
   },
@@ -245,7 +222,6 @@
     "title": "Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection",
     "url": "https://link.springer.com/chapter/10.1007/978-981-96-9891-2_36",
     "authors": "Tianwu Lei#; **Silin Chen#**; Bohan Wang; Zhengkai Jiang; Ningmu Zou.",
-    "note": "CCF-C, Conference",
     "resources": [
       {
         "url": "https://github.com/ray3572/AdaptedMoE",
@@ -260,7 +236,6 @@
     "title": "Delving into Topology Representation for Layout Pattern:  A Novel Contrastive Learning Framework for Hotspot Detection",
     "url": "https://ieeexplore.ieee.org/document/11133380",
     "authors": "**Silin Chen**; Kangjian Di; Guohao Wang; Wenzheng Zhao; Li Du; Ningmu Zou.",
-    "note": "**CCF-A**, Conference",
     "resources": [],
     "group": "first"
   },
@@ -270,7 +245,6 @@
     "title": "Look Twice and Closer: A Coarse-to-Fine Segmentation Network for Small Objects in Remote Sensing Images",
     "url": "https://ieeexplore.ieee.org/document/10878803",
     "authors": "**Silin Chen\\#**; Qingzhong Wang\\#; Kangjian Di; Haoyi Xiong; Ningmu Zou.",
-    "note": "CCF-C, Journal, *IF 3.2*",
     "resources": [
       {
         "url": "https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.10/contrib/RSSegBenchmark/c2fnet",
@@ -285,7 +259,6 @@
     "title": "Time-wavelength multiplexed photonic neural network accelerator for distributed acoustic sensing systems",
     "url": "https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-7/issue-02/026008/Time-wavelength-multiplexed-photonic-neural-network-accelerator-for-distributed-acoustic/10.1117/1.AP.7.2.026008.pdf",
     "authors": "Fuhao Yu; Kangjian Di; Wenjun Chen; Sen Yan; Yuanyuan Yao; **Silin Chen**; Xuping Zhang; Yixin Zhang; Ningmu Zou; Wei Jiang.",
-    "note": "CAS 1st, Top, Journal, ***IF 20.6***",
     "resources": [],
     "group": "other"
   },
@@ -295,7 +268,6 @@
     "title": "Info-FPN: An informative feature pyramid network for object detection in remote sensing images",
     "url": "https://www.sciencedirect.com/science/article/pii/S0957417422021509",
     "authors": "**Silin Chen**; Jiaqi Zhao; Yong Zhou; Hanzheng Wang; Rui Yao; Lixu Zhang; Yong Xue.",
-    "note": "CCF-C, Journal, *IF 7.5*",
     "resources": [],
     "group": "first"
   },
@@ -305,7 +277,6 @@
     "title": "CLT-Det: Correlation learning based on transformer for detecting dense objects in remote sensing images",
     "url": "https://ieeexplore.ieee.org/abstract/document/9878347/",
     "authors": "Yong Zhou; **Silin Chen**; Jiaqi Zhao; Rui Yao; Yong Xue; Abdulmotaleb El Saddik.",
-    "note": "CCF-B, Journal, *IF 7.5*",
     "resources": [],
     "group": "student-first"
   },
@@ -315,7 +286,6 @@
     "title": "Spatial-temporal based multihead self-attention for remote sensing image change detection",
     "url": "https://ieeexplore.ieee.org/abstract/document/9777690/",
     "authors": "Yong Zhou; Fengkai Wang; Jiaqi Zhao; Rui Yao; **Silin Chen**; Heping Ma.",
-    "note": "CCF-B, Journal, *IF 8.3*",
     "resources": [],
     "group": "other"
   },
@@ -325,7 +295,6 @@
     "title": "Spatial-channel enhanced transformer for visible-infrared person re-identification",
     "url": "https://ieeexplore.ieee.org/abstract/document/9745797/",
     "authors": "Jiaqi Zhao; Hanzheng Wang; Yong Zhou; Rui Yao; **Silin Chen**; Abdulmotaleb El Saddik.",
-    "note": "CCF-B, Journal, *IF 8.4*",
     "resources": [],
     "group": "other"
   },
@@ -335,7 +304,6 @@
     "title": "AMC-Net: Attentive modality-consistent network for visible-infrared person re-identification",
     "url": "https://www.sciencedirect.com/science/article/pii/S0925231221012376",
     "authors": "Hanzheng Wang; Jiaqi Zhao; Yong Zhou; Rui Yao; Ying Chen; **Silin Chen**.",
-    "note": "CCF-C, Journal, *IF 5.5*",
     "resources": [],
     "group": "other"
   },
@@ -345,7 +313,6 @@
     "title": "基于深度强化学习的遥感图像可解释目标检测方法",
     "url": "https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliWhXUiDYKrqnAIPgVc_lC1Ew6X9U5rDBYkKYAzixt42EIp65ugcuaIowLZSH_2gP6c5nPlLbdyN0Ml5JvSOTKg7F8602y-sAh1vpJ8fG_j0rDVI1TL9XD8XNNtUaciQFnhCi5tl63-L4LI84aYeo8C8ukKG3bWxsAJfhPVa3Mu23g==&uniplatform=NZKPT&language=CHS",
     "authors": "赵佳琦; 张迪; 周勇; **陈思霖**; 唐嘉澜; 姚睿.",
-    "note": "CCF-T2",
     "resources": [],
     "group": "other"
   },
@@ -355,7 +322,6 @@
     "title": "基于弱语义注意力的遥感图像可解释目标检测",
     "url": "https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliWJXRBpzMn5rJLaErJ_3a4jRYTL_LTQ5yIB-lw4E6oiOSC83CSnVxd-0_jO1LnpuAVLLMhVMSs2C2CCL1trIxtsV6N8xRnSrMajMzuOW2WG1oorJkzeqpB7uisWhBOJEYXxQplAxArUODG4x3DiFRpNENiuPcre8mHUABV9WyoPJw==&uniplatform=NZKPT&language=CHS",
     "authors": "周勇; **陈思霖**; 赵佳琦; 张迪; 王瀚正.",
-    "note": "CCF-T1",
     "resources": [],
     "group": "student-first"
   },
@@ -365,7 +331,6 @@
     "title": "基于可解释注意力部件模型的行人重识别方法",
     "url": "https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliX0_Qlr2udCG_FEbYikpAPgAyKNhRBy21RPse0P_qg3kFflzU6Nzywf3zL63xZbV6jw-58XwxUwksmxiXM4SXtonDchnDVDunCJVWq6wRiPCt-e1Dq64SOKMEujSlqf-AJV-kSwx6ZqUBVfAsNK8PXnMZ92CeIPn1FFcaDrnUlEQg==&uniplatform=NZKPT&language=CHS",
     "authors": "周勇; 王瀚正; 赵佳琦; 陈莹; 姚睿; **陈思霖**.",
-    "note": "CCF-T1",
     "resources": [],
     "group": "other"
   }
