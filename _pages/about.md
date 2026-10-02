@@ -88,7 +88,10 @@ My research interests is include:
 <span class='anchor' id='talks'></span>
 
 # 💬 Talks 
-- **[SPIE/COS Phtonics Asia, Beijing, China, Oct.12-14, 2025]** [OptoChat: a large language model with retrieval augmented generation for optics.](https://spie.org/spie-cos-photonics-asia/presentation/OptoChat--A-large-language-model-with-retrieval-augmented-generation/13727-8) 
+
+<ul class="talks-list">
+  <li><strong>[SPIE/COS Phtonics Asia, Beijing, China, Oct.12-14, 2025]</strong> <a href="https://spie.org/spie-cos-photonics-asia/presentation/OptoChat--A-large-language-model-with-retrieval-augmented-generation/13727-8">OptoChat: a large language model with retrieval augmented generation for optics.</a></li>
+</ul>
 
 
 <span class='anchor' id='publications'></span>
