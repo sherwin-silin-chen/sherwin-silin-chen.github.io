@@ -1,0 +1,77 @@
+.page__content .publication-legend {
+  color: #687783;
+  font-size: 0.85em;
+  margin: 0.5em 0 1.5em;
+}
+.page__content .publication-group { margin: 0 0 2em; }
+.page__content .publication-group h2 {
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
+  font-size: 1.08em;
+  margin: 0 0 0.8em;
+  color: #344955;
+}
+.publication-count {
+  font-size: 0.72em;
+  font-weight: normal;
+  padding: 0.12em 0.55em;
+  border-radius: 999px;
+  background: #eef3f6;
+  color: #607480;
+}
+.page__content ul.publication-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.page__content .publication-list > .publication-item {
+  display: block;
+  margin: 0;
+  padding: 16px 0;
+  border-bottom: 1px solid #edf0f2;
+}
+.page__content .publication-item:first-child { padding-top: 0; }
+.page__content .publication-item:last-child { border-bottom: 0; }
+.publication-venue {
+  display: inline-block;
+  vertical-align: baseline;
+  max-width: 100%;
+  margin-right: 0.4em;
+  padding: 2px 8px;
+  background: #003aa8;
+  color: #fff;
+  font-size: 1em;
+  font-weight: 700;
+  line-height: 1.4;
+  box-sizing: border-box;
+}
+.publication-year { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.publication-details { min-width: 0; line-height: 1.5; }
+.publication-heading { line-height: 1.8; }
+.page__content .publication-title {
+  display: inline;
+  font-size: 1em;
+  color: #344955;
+  font-weight: 700;
+  line-height: 1.4;
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+.page__content a.publication-title:hover { color: #245d81; text-decoration: underline; }
+.publication-authors { margin: 5px 0 0; font-size: 0.9em; color: #58636c; overflow-wrap: anywhere; }
+.publication-authors strong { color: #303b44; }
+.publication-authors sup { color: #345f79; }
+.page__content .publication-authors p,
+.page__content .publication-meta p { margin: 0; text-indent: 0; }
+.publication-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px; margin-top: 7px; font-size: 0.78em; color: #687783; }
+.page__content a.publication-resource { text-decoration: none; color: #345f79; padding: 1px 7px; border: 1px solid #dce8ef; border-radius: 4px; }
+.page__content a.publication-resource:hover { background: #edf4f8; }
+.page__content ul.honors-list { list-style: none; padding: 0; margin: 0.7em 0 1.5em; }
+.page__content .honors-list li { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 16px; margin: 0; padding: 12px 0; border-bottom: 1px solid #edf0f2; line-height: 1.5; }
+.page__content .honors-list li:last-child { border-bottom: 0; }
+.honor-year { font-size: 0.88em; font-variant-numeric: tabular-nums; color: #647e8e; white-space: nowrap; }
+@media (max-width: 600px) {
+  .page__content .publication-list > .publication-item { padding: 16px 0; }
+  .page__content .honors-list li { gap: 12px; }
+}

@@ -1,0 +1,18 @@
+<p class="publication-legend"><sup>#</sup> Equal contribution.</p>
+{% for group in site.data.publication_groups %}
+{% assign papers = site.data.publications | where: 'group', group.id %}
+{% assign years = papers | map: 'year' | compact | uniq | sort | reverse %}
+<section class="publication-group" aria-labelledby="publications-{{ group.id }}">
+  <h2 id="publications-{{ group.id }}">{{ group.title }} <span class="publication-count">{{ papers.size }}</span></h2>
+  <ul class="publication-list">
+    {% for year in years %}
+      {% for paper in papers %}
+        {% if paper.year == year %}{% include publication-item.html paper=paper %}{% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% for paper in papers %}
+      {% unless paper.year %}{% include publication-item.html paper=paper %}{% endunless %}
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}

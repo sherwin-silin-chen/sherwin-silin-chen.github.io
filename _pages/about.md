@@ -45,16 +45,9 @@ My research interests is include:
     <div class="experience-details">
       <strong>China University of Mining and Technology (CUMT)</strong>
       <p><em>2020.09 - 2023.06</em> · M.S.</p>
-      <p>School of Computer Science and Technology, Xuzhou, Jiangsu, China.</p>
-      <p>Supervisors: <a href="https://cs.cumt.edu.cn/info/1016/1065.htm">Yong Zhou</a>, <a href="https://www.scholat.com/zhaojiaqi">Jiaqi Zhao</a>.</p>
-    </div>
-  </li>
-  <li class="experience-item">
-    <div class="experience-logo"><img src="{{ '/images/cumt-logo.png' | relative_url }}" alt="China University of Mining and Technology logo" width="64" height="64" loading="lazy"></div>
-    <div class="experience-details">
-      <strong>China University of Mining and Technology (CUMT)</strong>
       <p><em>2016.09 - 2020.06</em> · B.E.</p>
       <p>School of Computer Science and Technology, Xuzhou, Jiangsu, China.</p>
+      <p>Supervisors: <a href="https://cs.cumt.edu.cn/info/1016/1065.htm">Yong Zhou</a>, <a href="https://www.scholat.com/zhaojiaqi">Jiaqi Zhao</a>.</p>
     </div>
   </li>
 </ul>
@@ -64,6 +57,14 @@ My research interests is include:
 # 💼 Work Experience
 
 <ul class="experience-list">
+  <li class="experience-item">
+    <div class="experience-logo experience-logo--amedac-frame"><img src="{{ '/images/amedac-logo.png' | relative_url }}" class="experience-logo--amedac" alt="AMEDAC logo" width="64" height="64" loading="lazy"></div>
+    <div class="experience-details">
+      <strong>AMEDAC</strong>
+      <p><em>2026.04.10 - Now</em> · Engineering Intern</p>
+      <p>Product Application Department I, Hefei, Anhui, China.</p>
+    </div>
+  </li>
   <li class="experience-item">
     <div class="experience-logo"><img src="{{ '/images/xpeng-symbol.svg' | relative_url }}" class="experience-logo--xpeng" alt="XPeng logo" width="64" height="33" loading="lazy"></div>
     <div class="experience-details">
@@ -93,50 +94,25 @@ My research interests is include:
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
-- **[ASP-DAC, 2027]** <br>
-  - Curvilinear OPC via Diffeomorphic Deformation, **Silin Chen**, Kangjian Di, Jiale Li, Binwu Zhu; Ningmu Zou. <br>
-  - ResistONet: Cascade Operator Network for Photoresist Simulation, Yiqing Wang\#; **Silin Chen\#**; Yuqian Zang; Jiale Li; Xiaodong Meng; Ningmu Zou. <br>
-  - Chain of SRAF Generation: A Large Reasoning Model for Sub-resolution Assist Features, Jiale Li\#; **Silin Chen\#**; Yufeng Zhang; Zhili Xu; Yiqing Wang; Wenbo Xu; Ziyang Yu; Bei Yu; Ningmu Zou. <br>
-  - EtchMO: A Differentiable Etch Model for Mask Optimization, Jiale Li; **Silin Chen**; Yiqing Wang; Yali Zhang; Yang Xia; Ningmu Zou. <br>
-- **[ICCAD, 2026]** [RWAD: Reliability-Guided Text-Free Zero-Shot Wafer Anomaly Detection](https://zouningmu.github.io/images/people/ICCAD2026.pdf), Haowen Lan; Tianrui Zhang; Ziheng Zang; **Silin Chen**; Kangjian Di; Andy Liu; Guohao Wang; Wenzheng Zhao; Ningmu Zou.
-- **[ITC-Asia, 2026]** Bridging Geometric Learning and Pattern Decoupling for Mixed-Type Wafer Defect Recognition via Dual-Collaborative Graph Learning, Yali Zhang\#; **Silin Chen\#**; Haotian Zhang; Mingwei Feng; Zhijie Sasha Dong; Jun Lin; Ningmu Zou.
-- **[Optica, 2026]** [Distillation-guided optical neural networks with reinforcement learning-assisted calibration](https://doi.org/10.1364/OPTICA.591264), Kangjian Di\#; Fuhao Yu\#; **Silin Chen\#**; Jiashu Li; Andy Liu; Sen Shao; Zhiyuan Shi; Xuping Zhang; Yixin Zhang; Wei Jiang; Ningmu Zou.
-- **[Nature Communications, 2026]** [Wavelength-encoded neuromorphic inference enabled by microcavity MoS2 photodetector arrays](https://ieeexplore.ieee.org/document/11557116), Xiang Chen; Kangjian Di; Fuhao Yu; Jiashu Li; Lixiang Sun; Shengdi Chen; **Silin Chen**; Andy Liu; Xiang Peng; Shitong Zhu; Taotao Li; Wei Jiang; Xuping Zhang; Yi Shi; Xinran Wang; Li Gao; Zehua Hu; Ningmu Zou.
-- **[IEEE/Optica JLT, 2026]** [All-Optical Wearable Gesture Sensing with a Learnable Photonic Linear Filter Bank for Near-Sensor Classification](https://ieeexplore.ieee.org/document/11557116), Kangjian Di; Jiashu Li; **Silin Chen**; Shengdi Chen; Fuhao Yu; Nasheeta Mazhar; Wei Jiang; Xuping Zhang; Yixin Zhang; Ningmu Zou.
-- **[JPhys-Phtonics, 2026]** [OptoChat: a large language model with retrieval augmented generation for optics](https://iopscience.iop.org/article/10.1088/2515-7647/ae7491), Xiaoqing Bao\#; Hairuo Wang\#; **Silin Chen\#**; Yali Zhang\#; Wenjun Chen; Kangjian Di; Mengcheng Lv; Minghui Zhao; Guohao Wang; Wenzheng Zhao; Ningmu Zou. 
-- **[Nanoscale, 2026]** [CrossMicroNet: A Cross-Scale Small-Sample Image Restoration Framework for Two-dimensional Material Microscopy Imaging](https://zouningmu.github.io/images/people/Nanoscale.pdf), Mingwei Feng; Xilu Zou; Lei Liu; Shengqiang Wu; Haotian Zhang; **Silin Chen**; Zikang Zeng; Yiru Wang; Xiaotian Zhang; Xuping Zhang; Taotao Li; Ningmu Zou. 
-- **[IEEE Nano, 2026]** [Dynamic Processes in Chemical-Vapor Deposition of Transition-Metal Dichalcogenides Revealed by AI-Driven Operando Metrology](https://zouningmu.github.io/images/people/IEEE%20NANO.pdf), Mingwei Feng; Xilu Zou; Haotian Zhang; Caiqi Zou; **Silin Chen**; Wei Xu; Xiaotian Zhang; Taotao Li; Ningmu Zou. 
-- **[ISEDA, 2026]** <br>
-  - [MODiff: Layout-Guided Mask Optimization via Diffusion Model](https://zouningmu.github.io/images/people/MODiff_ISEDA_CameraReady.pdf), Jiale Li\#; **Silin Chen\#**; Yiqing Wang; Kangjian Di; Li Du; Ningmu Zou. <br>
-  - [Boundary-Only Layout Encoding for Lithography Hotspot Detection](https://zouningmu.github.io/images/people/Boundary_Only_Layout_Encoding_for_Lithography_Hotspot_Detection_ISEDA_CameraReady.pdf), Yufeng Zhang; Zhili Xu; Yuqian Zang; Jiale Li; **Silin Chen**; Zhaoyang Wang; Chihwei Chiang; Ningmu Zou. <br>
-  - [TC-FNO: Fourier Neural Operator with Learnable Time-Step Embedding for 3D Lithography Exposure Simulation](https://zouningmu.github.io/images/people/TC-FNO_ISEDA_CameraReady.pdf), Yuqian Zang; Yiqing Wang; **Silin Chen**; Jiale Li; Zhili Xu; Yufeng Zhang; Hao Zhang; Chia-Yen Li; Ningmu Zou.
-- **[IEEE TCAD, 2026]** [Geometric-Robust Contrastive Learning Framework with Layout Topology Representation and Self-Calibration Voting for Hotspot Detection](https://ieeexplore.ieee.org/document/11422940), **Silin Chen**; Kangjian Di; Andy Liu; Guohao Wang; Wenzheng Zhao; Binwu Zhu; Li Du; Ningmu Zou. (**CCF-A**, Journal) 
-- **[CVM, 2026]** <a href='https://huggingface.co/texture-ad'><img src="../images/huggingface.svg" width="15" height="15"></a> [Texture-AD: An Anomaly Detection Dataset and Benchmark for Real Algorithm Development](https://arxiv.org/pdf/2409.06367), Bohan Wang; Tianwu Lei; **Silin Chen**; Shurong Cao; Ningmu Zou. (CCF-C, Conference)
-<!-- - **[SPIE Advanced Lithography + Patterning, 2026]** [MODiff: Layout Guided Mask Optimization via Diffusion Model.](https://spie.org/advanced-lithography/presentation/MODiff-Layout-guided-mask-optimization-via-diffusion-model/13980-31), Jiale Li\#; **Silin Chen\#**; Yiqing Wang; Kangjian Di; Li Du; Ningmu Zou.  -->
-- **[DATE, 2026]** [Node2Node: Node Adaptation with Transformer for Cross-Node Hotspot Detection](https://ieeexplore.ieee.org/document/11539589), Wenbo Xu\#; **Silin Chen\#**; Yibo Huang; Xinyun Zhang; Zixiao Wang; Bei Yu; Ningmu Zou. (CCF-B, Conference)
-- **[ACM TODAES, 2026]** [You Only Need Non-hotspot: An Unsupervised Training-Free Method for Layout Hotspot Detection](https://dl.acm.org/doi/epdf/10.1145/3771767), **Silin Chen**; Kangjian Di; Yibo Huang; Binwu Zhu; Ningmu Zou. (CCF-B, Journal) 
-- **[ASP DAC, 2026]** [Understand and Detect: Lithographic Hotspot Detection by the Interpretable Graph Attention Network](https://ieeexplore.ieee.org/document/11420514), Andy Liu\#; **Silin Chen\#**; Guohao Wang; Wenzheng Zhao; Yuxiang Fu; Ningmu Zou. (CCF-C, Conference)
-- **[IEEE JEDS, 2025]** <a href='https://github.com/zouningmu/Dueling_DQN_for_BSIM.'><img src="../images/github.svg" width="15" height="15"></a> [Improved Algorithm of Dueling DQN for BSIM Parameter Extraction Task](https://ieeexplore.ieee.org/document/11197319), Wenjun Chen; Yali Zhang; Zikang Zeng; **Silin Chen**; Kangjian Di; Guohao Wang; Chia-Yen Li; Ningmu Zou.
-- **[IWAPS, 2025]** [SVD-based Layout Representation for Lithographic Hotspot Detection](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13991/1399114/SVD-based-layout-representation-for-lithographic-hotspot-detection/10.1117/12.3093251.short), Yibo Huang\#; **Silin Chen\#**; Hao Shu; Jiahao Wang; Wenbo Xu; Ningmu Zou.
-- **[GLSVLSI, 2025]** [When Transformer Meets Layout Hotspot: An End-to-End Transformer-based Detector with Prior Lithography](https://dl.acm.org/doi/10.1145/3716368.3735160), Wenbo Xu\#; **Silin Chen\#**; Jiale Li; Kangjian Di; Yuxiang Fu; Ningmu Zou. (CCF-C, Conference)
-- **[ICIC Oral, 2025]** <a href='https://github.com/ray3572/AdaptedMoE'><img src="../images/github.svg" width="15" height="15"></a> [Adapted-MoE: Mixture of Experts with Test-Time Adaption for Anomaly Detection](https://link.springer.com/chapter/10.1007/978-981-96-9891-2_36), Tianwu Lei#; **Silin Chen#**; Bohan Wang; Zhengkai Jiang; Ningmu Zou. (CCF-C, Conference)
-- **[IEEE/ACM DAC, 2025]** [Delving into Topology Representation for Layout Pattern:  A Novel Contrastive Learning Framework for Hotspot Detection](https://ieeexplore.ieee.org/document/11133380), **Silin Chen**; Kangjian Di; Guohao Wang; Wenzheng Zhao; Li Du; Ningmu Zou. (**CCF-A**, Conference)
-- **[IEEE SPL, 2025]** <a href='https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.10/contrib/RSSegBenchmark/c2fnet'><img src="../images/github.svg" width="15" height="15"></a> [Look Twice and Closer: A Coarse-to-Fine Segmentation Network for Small Objects in Remote Sensing Images](https://ieeexplore.ieee.org/document/10878803), **Silin Chen\#**; Qingzhong Wang\#; Kangjian Di; Haoyi Xiong; Ningmu Zou. (CCF-C, Journal, *IF 3.2*) 
-- **[Advanced Photonics, 2025]** [Time-wavelength multiplexed photonic neural network accelerator for distributed acoustic sensing systems](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-7/issue-02/026008/Time-wavelength-multiplexed-photonic-neural-network-accelerator-for-distributed-acoustic/10.1117/1.AP.7.2.026008.pdf), Fuhao Yu; Kangjian Di; Wenjun Chen; Sen Yan; Yuanyuan Yao; **Silin Chen**; Xuping Zhang; Yixin Zhang; Ningmu Zou; Wei Jiang. (CAS 1st, Top, Journal, ***IF 20.6***)
-- **[ESWA, 2023]** [Info-FPN: An informative feature pyramid network for object detection in remote sensing images](https://www.sciencedirect.com/science/article/pii/S0957417422021509), **Silin Chen**; Jiaqi Zhao; Yong Zhou; Hanzheng Wang; Rui Yao; Lixu Zhang; Yong Xue. (CCF-C, Journal, *IF 7.5*)
-- **[IEEE TGRS, 2022]** [CLT-Det: Correlation learning based on transformer for detecting dense objects in remote sensing images](https://ieeexplore.ieee.org/abstract/document/9878347/), Yong Zhou; **Silin Chen**; Jiaqi Zhao; Rui Yao; Yong Xue; Abdulmotaleb El Saddik. (CCF-B, Journal, *IF 7.5*)
-- **[IEEE TCSVT, 2022]** [Spatial-temporal based multihead self-attention for remote sensing image change detection](https://ieeexplore.ieee.org/abstract/document/9777690/), Yong Zhou; Fengkai Wang; Jiaqi Zhao; Rui Yao; **Silin Chen**; Heping Ma. (CCF-B, Journal, *IF 8.3*)
-- **[IEEE TMM, 2022]** [Spatial-channel enhanced transformer for visible-infrared person re-identification](https://ieeexplore.ieee.org/abstract/document/9745797/), Jiaqi Zhao; Hanzheng Wang; Yong Zhou; Rui Yao; **Silin Chen**; Abdulmotaleb El Saddik. (CCF-B, Journal, *IF 8.4*)
-- **[Neurocomputing, 2021]** [AMC-Net: Attentive modality-consistent network for visible-infrared person re-identification](https://www.sciencedirect.com/science/article/pii/S0925231221012376), Hanzheng Wang; Jiaqi Zhao; Yong Zhou; Rui Yao; Ying Chen; **Silin Chen**. (CCF-C, Journal, *IF 5.5*)
-- **[模式识别与人工智能, 2021]** [基于深度强化学习的遥感图像可解释目标检测方法](https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliWhXUiDYKrqnAIPgVc_lC1Ew6X9U5rDBYkKYAzixt42EIp65ugcuaIowLZSH_2gP6c5nPlLbdyN0Ml5JvSOTKg7F8602y-sAh1vpJ8fG_j0rDVI1TL9XD8XNNtUaciQFnhCi5tl63-L4LI84aYeo8C8ukKG3bWxsAJfhPVa3Mu23g==&uniplatform=NZKPT&language=CHS), 赵佳琦; 张迪; 周勇; **陈思霖**; 唐嘉澜; 姚睿. (CCF-T2)
-- **[电子学报, 2021]** [基于弱语义注意力的遥感图像可解释目标检测](https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliWJXRBpzMn5rJLaErJ_3a4jRYTL_LTQ5yIB-lw4E6oiOSC83CSnVxd-0_jO1LnpuAVLLMhVMSs2C2CCL1trIxtsV6N8xRnSrMajMzuOW2WG1oorJkzeqpB7uisWhBOJEYXxQplAxArUODG4x3DiFRpNENiuPcre8mHUABV9WyoPJw==&uniplatform=NZKPT&language=CHS), 周勇; **陈思霖**; 赵佳琦; 张迪; 王瀚正. (CCF-T1)
-- **[自动化学报, 2020]** [基于可解释注意力部件模型的行人重识别方法](https://kns.cnki.net/kcms2/article/abstract?v=2Z_8GvOTliX0_Qlr2udCG_FEbYikpAPgAyKNhRBy21RPse0P_qg3kFflzU6Nzywf3zL63xZbV6jw-58XwxUwksmxiXM4SXtonDchnDVDunCJVWq6wRiPCt-e1Dq64SOKMEujSlqf-AJV-kSwx6ZqUBVfAsNK8PXnMZ92CeIPn1FFcaDrnUlEQg==&uniplatform=NZKPT&language=CHS), 周勇; 王瀚正; 赵佳琦; 陈莹; 姚睿; **陈思霖**. (CCF-T1)
 
-
+{% include publications.html %}
 
 # 🙏 Preprints
-- [FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection](https://arxiv.org/pdf/2502.21012), **Silin Chen**; Andy Liu; Kangjian Di; Yichu Xu; Han-Jia Ye; Wenhan Luo; Ningmu Zou.
 
+<ul class="publication-list">
+{% for paper in site.data.preprints %}{% include publication-item.html paper=paper %}{% endfor %}
+</ul>
+
+<span class='anchor' id='honors-and-awards'></span>
+
+# 🏅 Honors & Awards
+
+<ul class="honors-list">
+  <li><span>School Outstanding Student (NJU)</span><span class="honor-year">2026</span></li>
+  <li><span>National Scholarship for Ph.D. Student (NJU)</span><span class="honor-year">2025</span></li>
+  <li><span>China International College Students’ Innovation Competition, Bronze Award</span><span class="honor-year">2025</span></li>
+  <li><span>The First Prize Scholarship of CUMT</span><span class="honor-year">2020–2023</span></li>
+</ul>
 
 <span class='anchor' id='contact'></span>
 
