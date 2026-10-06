@@ -1,5 +1,14 @@
 [
   {
+    "venue": "ITC-Asia",
+    "year": 2026,
+    "title": "Bridging Geometric Learning and Pattern Decoupling for Mixed-Type Wafer Defect Recognition via Dual-Collaborative Graph Learning",
+    "url": "https://ieeexplore.ieee.org/document/11710855",
+    "authors": "Yali Zhang, **Silin Chen**, Haotian Zhang, Mingwei Feng, Zhijie Sasha Dong, Jun Lin, Ningmu Zou.",
+    "resources": [],
+    "group": "co-first"
+  },
+  {
     "venue": "ASP-DAC",
     "year": 2027,
     "title": "Curvilinear OPC via Diffeomorphic Deformation",
