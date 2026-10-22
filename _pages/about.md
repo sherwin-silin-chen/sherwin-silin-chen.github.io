@@ -108,7 +108,7 @@ My research interests is include:
 # 🏅 Honors & Awards
 
 <ul class="honors-list">
-  <li><span>Doctoral Student Program of the Young S&T Talents Cultivation Project(CAST)</span><span class="honor-year">NJU</span></li>
+  <li><span>Doctoral Student Program of the Young S&T Talents Cultivation Project(CAST)</span><span class="honor-year">2026</span></li>
   <li><span>School Outstanding Student (NJU)</span><span class="honor-year">2026</span></li>
   <li><span>National Scholarship for Ph.D. Student (NJU)</span><span class="honor-year">2025</span></li>
   <li><span>China International College Students’ Innovation Competition, Bronze Award</span><span class="honor-year">2025</span></li>
