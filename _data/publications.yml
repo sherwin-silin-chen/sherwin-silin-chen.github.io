@@ -111,7 +111,7 @@
     "venue": "ISEDA",
     "year": 2026,
     "title": "MODiff: Layout-Guided Mask Optimization via Diffusion Model",
-    "url": "https://zouningmu.github.io/images/people/MODiff_ISEDA_CameraReady.pdf",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11751487",
     "authors": "Jiale Li\\#; **Silin Chen\\#**; Yiqing Wang; Kangjian Di; Li Du; Ningmu Zou.",
     "resources": [],
     "group": "co-first"
@@ -120,7 +120,7 @@
     "venue": "ISEDA",
     "year": 2026,
     "title": "Boundary-Only Layout Encoding for Lithography Hotspot Detection",
-    "url": "https://zouningmu.github.io/images/people/Boundary_Only_Layout_Encoding_for_Lithography_Hotspot_Detection_ISEDA_CameraReady.pdf",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11751459",
     "authors": "Yufeng Zhang; Zhili Xu; Yuqian Zang; Jiale Li; **Silin Chen**; Zhaoyang Wang; Chihwei Chiang; Ningmu Zou.",
     "resources": [],
     "group": "other"
@@ -129,7 +129,7 @@
     "venue": "ISEDA",
     "year": 2026,
     "title": "TC-FNO: Fourier Neural Operator with Learnable Time-Step Embedding for 3D Lithography Exposure Simulation",
-    "url": "https://zouningmu.github.io/images/people/TC-FNO_ISEDA_CameraReady.pdf",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11751473",
     "authors": "Yuqian Zang; Yiqing Wang; **Silin Chen**; Jiale Li; Zhili Xu; Yufeng Zhang; Hao Zhang; Chia-Yen Li; Ningmu Zou.",
     "resources": [],
     "group": "other"
