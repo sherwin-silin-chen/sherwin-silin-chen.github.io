@@ -32,7 +32,12 @@
     "title": "EtchMO: A Differentiable Etch Model for Mask Optimization",
     "url": null,
     "authors": "Jiale Li; **Silin Chen**; Yiqing Wang; Yali Zhang; Yang Xia; Ningmu Zou.",
-    "resources": [],
+    "resources": [
+      {
+        "url": "https://github.com/zouningmu/EtchMO",
+        "label": "Code"
+      }
+    ],
     "group": "other"
   },
   {
