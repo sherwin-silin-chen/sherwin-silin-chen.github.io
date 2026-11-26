@@ -18,6 +18,15 @@
     "group": "first"
   },
   {
+    "venue": "DATE",
+    "year": 2027,
+    "title": "Inter-SMO: Bridging Source and Mask Optimization via Interaction Learning",
+    "url": null,
+    "authors": "Jiale Li; Su Zheng; **Silin Chen**; Mengjia Dai; Ziyang Yu; Bei Yu; Ningmu Zou.",
+    "resources": [],
+    "group": "other"
+  },
+  {
     "venue": "ASP-DAC",
     "year": 2027,
     "title": "Curvilinear OPC via Diffeomorphic Deformation",
