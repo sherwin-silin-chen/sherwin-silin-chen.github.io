@@ -1,5 +1,23 @@
 [
   {
+    "venue": "IJCV",
+    "year": 2026,
+    "title": "FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection",
+    "url": "https://rd.springer.com/article/10.1007/s11263-026-03125-2",
+    "authors": "**Silin Chen**; Andy Liu; Kangjian Di; Yichu Xu; Han-Jia Ye; Wenhan Luo; Ningmu Zou.",
+    "resources": [],
+    "group": "first"
+  },
+  {
+    "venue": "DATE",
+    "year": 2027,
+    "title": "FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection",
+    "url": null,
+    "authors": "**Silin Chen**; Kangjian Di; Tianrui Zhang; Guohao Wang; Wenzheng Zhao; Ningmu Zou.",
+    "resources": [],
+    "group": "first"
+  },
+  {
     "venue": "ASP-DAC",
     "year": 2027,
     "title": "Curvilinear OPC via Diffeomorphic Deformation",
